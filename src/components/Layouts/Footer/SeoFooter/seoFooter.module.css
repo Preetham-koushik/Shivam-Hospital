@@ -1,0 +1,28 @@
+.seo_arrow {
+  display: flex;
+  justify-content: center;
+}
+.seo_content ul {
+  list-style: none;
+  columns: 3;
+  height: 0;
+  overflow: hidden;
+  margin-top: 30px;
+}
+.seo_content li {
+  margin-bottom: 10px;
+}
+.seo_content_active ul {
+  height: fit-content;
+}
+
+@media (max-width: 900px) {
+  .seo_content ul {
+    columns: 2;
+  }
+}
+@media (max-width: 650px) {
+  .seo_content ul {
+    columns: 1;
+  }
+}

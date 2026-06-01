@@ -1,0 +1,38 @@
+.blogs_wrapper {
+  background: var(--bg);
+  padding: 40px 0px;
+}
+.blog_items {
+  position: relative;
+}
+.blog_slider_wrapper {
+  width: 90%;
+  margin: 30px auto;
+}
+
+.team_btns {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.team_btns button {
+  border: 2px solid var(--first);
+  border-radius: 50%;
+  background: none;
+  padding: 5px;
+  cursor: pointer;
+}
+.team_btns svg {
+  font-size: var(--step-6);
+}
+
+.insurance_item img {
+  margin: 0 auto;
+  width: 75%;
+  height: auto;
+}

@@ -1,0 +1,27 @@
+.wrapper {
+  position: fixed;
+  bottom: 5%;
+  right: 10px;
+  z-index: 99;
+}
+
+.wrapper a {
+  background-color: var(--white);
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  font-size: 16px;
+  background: var(--first);
+  color: var(--white);
+}
+.wrapper a:first-child {
+  margin-bottom: 15px;
+}
+.wrapper a:nth-child(2) {
+  margin-bottom: 15px;
+}
+.wrapper svg {
+  font-size: 20px;
+}

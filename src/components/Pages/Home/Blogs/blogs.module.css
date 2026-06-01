@@ -1,0 +1,56 @@
+.blog_items {
+  position: relative;
+}
+.blog_slider_wrapper {
+  width: 98%;
+  margin: 30px auto;
+}
+
+.blogs_item {
+  width: 95%;
+  margin: 0 auto 0 0;
+}
+
+.blog_content {
+  padding: 20px;
+}
+
+.blog_content h3 {
+  font-size: var(--step-4);
+  font-weight: 500;
+}
+.blog_content p {
+  margin: 10px 0px;
+}
+
+.blog_date {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.blog_date p {
+  font-size: var(--step--1);
+  font-weight: bold;
+}
+
+.team_btns {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 110%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.team_btns button {
+  border: 2px solid var(--first);
+  border-radius: 50%;
+  background: none;
+  padding: 5px;
+  cursor: pointer;
+}
+.team_btns svg {
+  font-size: var(--step-6);
+}

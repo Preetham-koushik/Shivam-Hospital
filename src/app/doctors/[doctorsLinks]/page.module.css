@@ -1,0 +1,57 @@
+.top_space {
+  height: 30px;
+}
+.doctor_wrapper {
+  display: grid;
+  grid-template-columns: 40% 60%;
+
+  margin: 30px 0px;
+}
+
+.doctor_title h3 {
+  font-size: var(--step-6);
+  color: var(--first);
+}
+.doctor_title p {
+  font-size: var(--step-3);
+  margin: 0px;
+}
+.doctor_list p {
+  margin: 0px;
+}
+.doctor_list {
+  margin-top: 20px;
+}
+.doctor_list li {
+  display: grid;
+  grid-template-columns: 20% 70%;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--black-10);
+}
+
+.doctor_list p {
+}
+.doctor_desc > section {
+  margin-bottom: 25px;
+}
+.doctor_desc h3 {
+  font-size: var(--step-7);
+  color: var(--first);
+}
+
+@media (max-width: 650px) {
+  .doctor_wrapper {
+    grid-template-columns: 100%;
+  }
+  .doctor_list li {
+    grid-template-columns: 30% 70%;
+  }
+  .doctor_title {
+    margin-top: 20px;
+  }
+  .doctor_title p {
+    font-size: var(--step-2);
+    margin: 0px;
+  }
+}

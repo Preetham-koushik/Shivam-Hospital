@@ -1,0 +1,14 @@
+.titles {
+  text-align: left;
+}
+.titles h2 {
+  text-align: left;
+  font-weight: 500;
+  margin: 0;
+}
+/* .titles h2 strong {
+  padding-left: 10px;
+} */
+.titles p {
+  margin: 0;
+}

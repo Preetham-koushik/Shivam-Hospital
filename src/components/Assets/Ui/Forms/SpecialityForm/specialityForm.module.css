@@ -1,0 +1,45 @@
+.banner_form {
+  width: 80%;
+  margin: 0 auto;
+  background-color: var(--white);
+  padding: 30px;
+  border-radius: 5px;
+}
+.banner_form h3 {
+  color: var(--first);
+  margin-bottom: 15px;
+}
+.banner_form input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid var(--black-15);
+  outline: none;
+
+  border-radius: 5px;
+}
+.banner_form input[type="submit"] {
+  background-color: var(--first);
+  color: var(--white);
+  width: 100%;
+  padding: 10px 0px;
+}
+.banner_form div {
+  margin-bottom: 20px;
+}
+
+.banner_form_white {
+  background-color: var(--first);
+  padding: 30px;
+  border-radius: 5px;
+}
+.banner_form_white h3 {
+  color: var(--white);
+  margin-bottom: 15px;
+}
+.banner_form input[type="submit"] {
+  background-color: var(--white);
+  color: var(--first);
+  width: 100%;
+  padding: 10px 0px;
+  font-weight: bold;
+}

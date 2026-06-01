@@ -1,0 +1,65 @@
+.wrapper {
+  background: linear-gradient(
+      5deg,
+      rgba(0, 0, 0, 0.669039857153799) 0%,
+      rgba(88, 159, 210, 0.4) 87%
+    ),
+    url(/images/home/specialfacilities_banner.jpg);
+  background-size: cover;
+  object-fit: cover;
+
+  padding: 30px 0px;
+}
+.content_items {
+}
+.facilities_items {
+  margin: 30px 0px;
+}
+.facilities_items > ul {
+  list-style: none;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.facilities_items ul li {
+  width: 31%;
+  margin-bottom: 20px;
+}
+
+.facilities_item_list {
+  display: grid;
+  grid-template-columns: 60px calc(99% - 60px);
+  justify-content: space-between;
+}
+
+.facilities_item_list svg {
+  width: 100%;
+}
+
+.facilities_icon {
+  padding-top: 5px;
+}
+.facilities_icon svg {
+  color: var(--white);
+}
+.facilities_item_list h3 {
+  color: var(--white);
+  font-size: var(--step-2);
+}
+
+.facilities_item_list p {
+  color: var(--black-3);
+  margin-top: 10px;
+}
+
+@media (max-width: 1000px) {
+  .facilities_items ul li {
+    width: 47%;
+  }
+}
+@media (max-width: 650px) {
+  .facilities_items ul li {
+    width: 100%;
+  }
+}

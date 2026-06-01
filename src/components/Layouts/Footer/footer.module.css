@@ -1,0 +1,66 @@
+.wrapper {
+  background-color: var(--bg);
+  padding: 50px 0px;
+}
+
+.phone_number svg {
+  font-size: var(--step-10);
+  margin: 0 auto;
+}
+
+.phone_number p {
+  font-size: var(--step-3);
+  font-weight: bold;
+  text-align: center;
+  color: var(--black);
+}
+.phone_number a {
+  font-size: var(--step-10);
+  font-weight: bold;
+  text-align: center;
+  color: var(--black);
+  color: var(--first);
+}
+
+.footer_link_wrapper {
+  display: grid;
+  grid-template-columns: 40% 25% 25%;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+.footer_link_wrapper h3 {
+  color: var(--first);
+  font-size: var(--step-5);
+  margin-bottom: 20px;
+}
+.footer_link_wrapper ul {
+  padding-left: 5%;
+  list-style: none;
+}
+
+.footer_logo img {
+  margin-bottom: 20px;
+}
+
+.footer_links a {
+  color: var(--black);
+}
+.footer_caller a {
+  display: grid;
+  grid-template-columns: 20px calc(100% - 25px);
+  align-items: center;
+  gap: 15px;
+  color: var(--black);
+  margin: 10px 0px;
+  font-size: var(--step-0);
+}
+.footer_caller a svg {
+  color: var(--first);
+  font-size: 20px;
+}
+
+@media (max-width: 650px) {
+  .footer_link_wrapper {
+    grid-template-columns: 100%;
+  }
+}

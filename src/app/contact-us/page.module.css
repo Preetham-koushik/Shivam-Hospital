@@ -1,0 +1,134 @@
+.contact_width {
+  width: 90%;
+  margin: 40px auto;
+}
+
+.contact_cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 3%;
+}
+.contact_cards > div {
+  width: 30%;
+  text-align: center;
+  background-color: var(--white);
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 20px 0px;
+  border-radius: 10px;
+}
+.contact_cards svg {
+  margin: 0 auto;
+  font-size: var(--step-10);
+  color: var(--first);
+  margin-bottom: 20px;
+}
+.contact_cards a {
+  display: block;
+  color: var(--black-15);
+  font-size: var(--step-0);
+  line-height: calc(var(--step-0) + 10px);
+  margin: 10px 0px;
+}
+.contact_cards p {
+  color: var(--black-15);
+  font-size: var(--step-0);
+  line-height: calc(var(--step-0) + 10px);
+  margin: 10px 0px;
+}
+
+.contact_form {
+  margin-top: 50px;
+}
+.contact_content p {
+  color: var(--black-15);
+  font-size: var(--step-0);
+  line-height: calc(var(--step-0) + 10px);
+  margin: 10px 0px;
+}
+
+.contact_form {
+  display: grid;
+  grid-template-columns: 50% 45%;
+  gap: 2.5%;
+}
+
+.contact_form_container {
+  background-color: var(--white);
+  padding: 20px;
+  margin-top: 20px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 10px;
+}
+
+.contact_form_container h2 {
+  font-size: var(--step-4);
+  color: var(--first);
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.contact_form_container > div {
+  margin-top: 15px;
+}
+.contact_form_container label {
+  display: block;
+  color: var(--step-1);
+  color: var(--first);
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.contact_form_container input {
+  width: 100%;
+  height: 30px;
+  padding: 5px;
+  outline: 1px solid #ccc;
+  border: 1px solid #ccc;
+}
+.contact_form_container textarea {
+  width: 100%;
+  height: 60px;
+  padding: 5px;
+  outline: 1px solid #ccc;
+  border: 1px solid #ccc;
+}
+.contact_form_container input[type="submit"] {
+  background-color: var(--first);
+  color: var(--white);
+  font-size: var(--step-1);
+  display: block;
+  height: fit-content;
+  font-weight: 600;
+}
+
+.contact_map iframe {
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 650px) {
+  .contact_width {
+    width: 95%;
+    margin: 20px auto;
+  }
+  .contact_cards {
+    display: flex;
+    flex-direction: column;
+    gap: 3%;
+  }
+  .contact_cards > div {
+    width: 100%;
+    margin: 10px auto;
+  }
+  .contact_card_mail a {
+    word-break: break-all;
+  }
+  .contact_form {
+    display: grid;
+    grid-template-columns: 97%;
+    gap: 2.5%;
+    margin-bottom: 60px;
+  }
+  .contact_map iframe {
+    width: 100%;
+    height: 300px;
+  }
+}

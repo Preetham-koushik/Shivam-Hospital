@@ -1,0 +1,11 @@
+.facilities_container {
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.facilities_container p {
+  font-size: var(--step-5);
+  text-align: center;
+  font-weight: 600;
+}

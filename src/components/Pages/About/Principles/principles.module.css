@@ -1,0 +1,56 @@
+.principles_title {
+  margin-top: 100px;
+  text-align: center;
+}
+.principles_title p {
+  font-size: var(--step-2);
+  color: var(--black-15);
+}
+.principles_title p {
+  font-size: var(--step-2);
+  color: var(--black-15);
+}
+.principles_title h3 {
+  font-size: var(--step-8);
+  color: var(--first);
+  margin: 15px 0px 40px;
+  font-weight: 500;
+}
+.about_title {
+  margin-bottom: 30px;
+}
+.content_items {
+  display: grid;
+  grid-template-columns: 38% 60%;
+  justify-content: space-between;
+}
+.content_items {
+  display: flex;
+  justify-content: space-between;
+}
+.content_items > article {
+  width: 31%;
+}
+.items_icon {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+@media (max-width: 800px) {
+  .principles_title {
+    margin-top: 0px;
+    text-align: center;
+  }
+}
+@media (max-width: 700px) {
+  .content_img img {
+    height: 300px;
+  }
+  .content_items {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+  .content_items > article {
+    width: 100%;
+  }
+}

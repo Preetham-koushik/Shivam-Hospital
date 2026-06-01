@@ -1,0 +1,312 @@
+[
+  {
+    "id": 4,
+    "deptTitle": "Department of Obstetrics",
+    "title": "Comprehensive Obstetrics Care in Bangalore",
+    "link": "best-obstetrics-care-in-basaveshwaranagara",
+    "specialityName": "Obstetrics",
+    "seoTitle": {
+      "title": "Best Maternity Hospital in Basaveshwar Nagar | Obstetrics hospital in Bangalore",
+      "desc": "Shivam Women & Child Care Hospital is one of the best maternity hospital in Basveshwarnagar with the leading obstetrician in Basaveshwarnagar and state-of- art technology."
+    },
+    "excerpt": "Shivam Women & Children Hospital is renowned healthcare provider known for its comprehensive obstetric services across Basaveshwar Nagar and surrounding areas.",
+    "icon": "obj.png",
+    "imgAltText": "Doctor examining pregnant woman's womb",
+    "img": "obj.jpg",
+    "banImg": "obj.jpg",
+    "imgAlt": "Comprehensive Obstetrics Care in Bangalore",
+    "topContent": [
+      {
+        "id": 4.1,
+        "btnTitle": "Overview",
+        "title": "Comprehensive Obstetrics Care in Bangalore",
+        "content": "<div><p>Shivam Women & Children Hospital is renowned healthcare provider known for its comprehensive obstetric services across Basaveshwar Nagar and surrounding areas.</p></div>"
+      },
+      {
+        "id": 4.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "deptTitle": "Department of Gynaecology",
+    "title": "Best Gynaecology Treatment in Bangalore",
+    "link": "best-gynaecology-treatment-in-basaveshwaranagara",
+    "specialityName": "Gynaecology",
+    "seoTitle": {
+      "title": "Best Gynaecology Hospital in Basaveshwarnagar, Bangalore",
+      "desc": "Shivam Hospital is one of the best gynaecology hospital in Basaveshwarnagar with the best gynaecologist in Basaveshwarnagar and fully equipped with advanced technology."
+    },
+    "excerpt": "Shivam Women & Children Hospital is renowned for its comprehensive healthcare services provided throughout Basaveshwar Nagar and surrounding areas.",
+    "icon": "gyn.png",
+    "imgAltText": "Gynecologist explaining diagnosis to patient",
+    "img": "gyn.jpg",
+    "banImg": "gyn.jpg",
+    "imgAlt": "Best Gynaecology Treatment in Bangalore",
+    "topContent": [
+      {
+        "id": 2.1,
+        "btnTitle": "Overview",
+        "title": "Best Gynaecology Treatment in Bangalore",
+        "content": "<div><p>Shivam Women & Children Hospital is renowned for its comprehensive healthcare services provided throughout Basaveshwar Nagar and surrounding areas.</p></div>"
+      },
+      {
+        "id": 2.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "deptTitle": "Department of Orthopaedics",
+    "title": "Best Orthopaedic Treatment in Bangalore",
+    "link": "best-orthopaedic-treatment-in-basaveshwaranagara",
+    "specialityName": "Orthopaedics",
+    "seoTitle": {
+      "title": "Best Orthopaedic & Joint Replacement Hospital in Basaveshwarnagar",
+      "desc": "Shivam Hospital is one of the best orthopedic hospitals in Basaveshwarnagar. Best Orthopaedic doctors in Basaveshwarnagar offers the best treatment and facilities."
+    },
+    "excerpt": "Shivam Advanced Orthocare Hospital is renowned for its comprehensive healthcare services provided throughout Basaveshwar Nagar and surrounding areas.",
+    "icon": "pulmonology.png",
+    "imgAltText": "Orthopedic doctor examining the patient's knee",
+    "img": "ortho.jpg",
+    "banImg": "ortho.jpg",
+    "imgAlt": "Best Orthopaedic Treatment in Bangalore",
+    "topContent": [
+      {
+        "id": 5.1,
+        "btnTitle": "Overview",
+        "title": "Best Orthopaedic Care in Bangalore",
+        "content": "<div><p>Shivam Advanced Orthocare Hospital is renowned for its comprehensive healthcare services provided throughout Basaveshwar Nagar and surrounding areas.</p></div>"
+      },
+      {
+        "id": 5.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>The treatments offered at Shivam Advanced Orthocare Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "deptTitle": "Department of Fertility",
+    "title": "Best Fertility Care in Bangalore",
+    "link": "best-fertility-care-in-basaveshwaranagara",
+    "specialityName": "Fertility",
+    "seoTitle": {
+      "title": "Best Fertility Hospital in Basaveshwarnagar | Best IVF Hospital in Basaveshwarnagar",
+      "desc": "Shivam Hospital is one of the best infertility center in Basaveshwarnagar. Our highly experienced fertility specialist in Basaveshwarnagar offer comprehensive treatment for fertility isssue."
+    },
+    "excerpt": "Shivam Women & Children Hospital renowned for its outstanding fertility services provided throughout Basaveshwar Nagar and surrounding areas.",
+    "icon": "anesthesiology.png",
+    "imgAltText": "Woman smiling while reading pregnancy kit",
+    "img": "fertility.jpg",
+    "banImg": "fer.jpg",
+    "imgAlt": "Best Fertility Care in Bangalore",
+    "topContent": [
+      {
+        "id": 1.1,
+        "btnTitle": "Overview",
+        "title": "Best Fertility Care in Bangalore",
+        "content": "<div><p>Shivam Women & Children Hospital renowned for its outstanding fertility services provided throughout Basaveshwar Nagar and surrounding areas.</p></div>"
+      },
+      {
+        "id": 1.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "deptTitle": "Department of Fetal Medicine",
+    "title": "Best Fetal Medicine Care in Bangalore",
+    "link": "best-fetal-medicine-care-in-basaveshwaranagara",
+    "specialityName": "Fetal Medicine",
+    "seoTitle": {
+      "title": "Best Fetal medicine Hospital in Basaveshwarnagar, Bangalore",
+      "desc": "Shivam Hospital is one of the best fetal medicine care hospitals in Basaveshwarnagar. Book an appointment with our best obstetrician and gynaecologist in Basaveshwarnagar."
+    },
+    "excerpt": "Shivam Women & Children Hospital is renowned for its exceptional fetal medicine services across Basaveshwar Nagar and surrounding areas.",
+    "icon": "fetal_medicine.png",
+    "imgAltText": "Doctor checking fetal development via ultrasound",
+    "img": "fetal_medicine.jpg",
+    "banImg": "fetal.jpg",
+    "imgAlt": "Best Fetal Medicine Care in Bangalore",
+    "topContent": [
+      {
+        "id": 2.1,
+        "btnTitle": "Overview",
+        "title": "Best Fetal Medicine Care in Bangalore",
+        "content": "<div><p>Shivam Women & Children Hospital is renowned for its exceptional fetal medicine services across Basaveshwar Nagar and surrounding areas.</p></div>"
+      },
+      {
+        "id": 3.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "deptTitle": "Department of Pediatric Care",
+    "title": "Best Pediatric Care in Bangalore",
+    "link": "best-pediatric-care-in-basaveshwaranagara",
+    "specialityName": "Pediatric Care",
+    "seoTitle": {
+      "title": "Best Paediatrics Hospital in Basaveshwarnagar | Child Care Hospital",
+      "desc": "Shivam Hospital is one of the best paediatric hospitals in Basaveshwarnagar. Our paediatricians in Basaveshwarnagar focus on the treatment of newborn babies, infants, and adolescents."
+    },
+    "excerpt": "Shivam Women & Children Hospital is renowned healthcare provider known for its comprehensive paediatric services across Basaveshwar Nagar and surrounding areas.",
+    "icon": "pulmonology.png",
+    "imgAltText": "Doctor caring for child's health needs",
+    "img": "pead.jpg",
+    "banImg": "pea.jpg",
+    "imgAlt": "Best Pediatric Care in Bangalore",
+    "topContent": [
+      {
+        "id": 5.1,
+        "btnTitle": "Overview",
+        "title": "Best Pediatric Care in Bangalore",
+        "content": "<div><p>Shivam Women & Children Hospital is renowned healthcare provider known for its comprehensive paediatric services across Basaveshwar Nagar and surrounding areas.</p></div>"
+      },
+      {
+        "id": 5.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "deptTitle": "Department of NICU",
+    "title": "Advanced NICU Care in Bangalore",
+    "link": "advanced-nicu-care-in-basaveshwaranagara",
+    "specialityName": "NICU",
+    "seoTitle": {
+      "title": "Best NICU Hospital in Basaveshwarnagar | Neonatal Care in Bangalore",
+      "desc": "Shivam Hospital is one the best hospitals for NICU care in Basaveshwarnagar. The best neonatologist in Basaveshwarnagar offer comprehensive facilities and treatment."
+    },
+    "excerpt": "Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.",
+    "icon": "pulmonology.png",
+    "imgAltText": "Child under observation in NICU",
+    "img": "nicu_picu.jpg",
+    "banImg": "nicu.jpg",
+    "imgAlt": "Advanced NICU Care in Bangalore",
+    "topContent": [
+      {
+        "id": 5.1,
+        "btnTitle": "Overview",
+        "title": "Advanced NICU Hospital in Bangalore",
+        "content": "<div><p>Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.</p></div>"
+      },
+      {
+        "id": 5.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>Our advanced NICU department covers various areas.</p></div>"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "deptTitle": "Department of Nutrition And Dietetics",
+    "title": "Advanced NICU Care in Bangalore",
+    "link": "advanced-nicu-care-in-basaveshwaranagara",
+    "specialityName": "Nutrition And Dietetics",
+    "seoTitle": {
+      "title": "Best NICU Hospital in Basaveshwarnagar | Neonatal Care in Bangalore",
+      "desc": "Shivam Hospital is one the best hospitals for NICU care in Basaveshwarnagar. The best neonatologist in Basaveshwarnagar offer comprehensive facilities and treatment."
+    },
+    "excerpt": "Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.",
+    "icon": "pulmonology.png",
+    "imgAltText": "Child under observation in NICU",
+    "img": "nicu_picu.jpg",
+    "banImg": "nicu.jpg",
+    "imgAlt": "Advanced NICU Care in Bangalore",
+    "topContent": [
+      {
+        "id": 7.1,
+        "btnTitle": "Overview",
+        "title": "Advanced NICU Hospital in Bangalore",
+        "content": "<div><p>Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.</p></div>"
+      },
+      {
+        "id": 7.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>Our advanced NICU department covers various areas.</p></div>"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "deptTitle": "Department of Breastfeeding Support",
+    "title": "Advanced NICU Care in Bangalore",
+    "link": "advanced-nicu-care-in-basaveshwaranagara",
+    "specialityName": "Breastfeeding Support",
+    "seoTitle": {
+      "title": "Best NICU Hospital in Basaveshwarnagar | Neonatal Care in Bangalore",
+      "desc": "Shivam Hospital is one the best hospitals for NICU care in Basaveshwarnagar. The best neonatologist in Basaveshwarnagar offer comprehensive facilities and treatment."
+    },
+    "excerpt": "Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.",
+    "icon": "pulmonology.png",
+    "imgAltText": "Child under observation in NICU",
+    "img": "nicu_picu.jpg",
+    "banImg": "nicu.jpg",
+    "imgAlt": "Advanced NICU Care in Bangalore",
+    "topContent": [
+      {
+        "id": 8.1,
+        "btnTitle": "Overview",
+        "title": "Advanced NICU Hospital in Bangalore",
+        "content": "<div><p>Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.</p></div>"
+      },
+      {
+        "id": 8.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>Our advanced NICU department covers various areas.</p></div>"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "deptTitle": "Department of Allied Services",
+    "title": "Advanced NICU Care in Bangalore",
+    "link": "advanced-nicu-care-in-basaveshwaranagara",
+    "specialityName": "Allied Services",
+    "seoTitle": {
+      "title": "Best NICU Hospital in Basaveshwarnagar | Neonatal Care in Bangalore",
+      "desc": "Shivam Hospital is one the best hospitals for NICU care in Basaveshwarnagar. The best neonatologist in Basaveshwarnagar offer comprehensive facilities and treatment."
+    },
+    "excerpt": "Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.",
+    "icon": "pulmonology.png",
+    "imgAltText": "Child under observation in NICU",
+    "img": "nicu_picu.jpg",
+    "banImg": "nicu.jpg",
+    "imgAlt": "Advanced NICU Care in Bangalore",
+    "topContent": [
+      {
+        "id": 9.1,
+        "btnTitle": "Overview",
+        "title": "Advanced NICU Hospital in Bangalore",
+        "content": "<div><p>Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.</p></div>"
+      },
+      {
+        "id": 9.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>Our advanced NICU department covers various areas.</p></div>"
+      }
+    ]
+  }
+]

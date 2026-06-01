@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "title": "About Us",
+    "link": "/about-us"
+  },
+  {
+    "id": 3,
+    "title": "Doctors",
+    "link": "/doctors"
+  },
+  {
+    "id": 4,
+    "title": "Services",
+    "link": "/services"
+  },
+  {
+    "id": 11,
+    "title": "Packages",
+    "link": "/packages"
+  },
+  {
+    "id": 8,
+    "title": "Blogs",
+    "link": "/blogs"
+  },
+
+  {
+    "id": 6,
+    "title": "Our Facilities",
+    "link": "/our-facilities"
+  },
+  {
+    "id": 7,
+    "title": "Contact Us",
+    "link": "/contact-us"
+  }
+]

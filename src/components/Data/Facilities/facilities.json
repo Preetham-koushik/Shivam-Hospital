@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "icon": "ultrasound.png",
+    "img": "3d_4d.jpg",
+    "title": "3D/4D Ultrasound",
+    "content": "<p> Experience advanced imaging with our state-of-the-art 3D/4D ultrasound technology for detailed and dynamic views of your health. Our skilled technicians ensure a comfortable and precise examination.</p>"
+  },
+  {
+    "id": 2,
+    "icon": "2.png",
+    "img": "x_ray.jpg",
+    "title": "Digital X-Ray",
+    "content": "<p>Our digital X-ray services ensure quick, accurate, and high-resolution imaging for precise diagnostics. We prioritize patient safety with minimal radiation exposure.</p>"
+  },
+  {
+    "id": 3,
+    "icon": "lab.png",
+    "img": "lab.jpg",
+    "title": "Laboratory",
+    "content": "<p>Our fully equipped laboratory offers a comprehensive range of tests with accurate and timely results. We utilize modern technology to support your health needs.</p>"
+  },
+  {
+    "id": 4,
+    "icon": "physio.png",
+    "img": "physio.jpg",
+    "title": "Physiotherapy",
+    "content": "<p>Benefit from personalized physiotherapy sessions designed to enhance recovery and improve mobility. Our therapists use evidence-based practices for optimal outcomes.</p>"
+  },
+  {
+    "id": 5,
+    "icon": "24_7.png",
+    "img": "24_7.jpg",
+    "title": "24/7 Emergency Services",
+    "content": "<p>Our emergency department is open 24/7, providing immediate and expert care during critical situations. Our dedicated and skilled team is always ready to respond to any emergency.</p>"
+  },
+  {
+    "id": 6,
+    "icon": "pharma.png",
+    "img": "pharma.jpg",
+    "title": "Pharmacy",
+    "content": "<p>Our in-house pharmacy stocks a wide range of medications and healthcare products for your convenience. Our pharmacists provide expert advice on medication management.</p>"
+  },
+  {
+    "id": 7,
+    "icon": "ambulance.png",
+    "img": "7.jpg",
+    "title": "Ambulance Facilities",
+    "content": "<p>Our efficient ambulance services ensure rapid and safe transportation in emergency situations. We are equipped with advanced life-saving equipment to provide immediate care en route.</p>"
+  }
+]

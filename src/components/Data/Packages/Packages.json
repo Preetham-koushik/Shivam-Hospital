@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Basic Health Screening Package",
+    "link": "basic-health-screening-package",
+    "img": "basic-health-screening-package.jpg",
+    "type": "",
+    "price": "Rs. 980",
+    "content": "<ul> <li>CBC with ESR</li> <li>Urine Routine</li> <li>Blood Sugar FBS & PPBS</li> <li>S. creatinine</li> <li>Total Cholesterol</li> <li>Cardiac Evaluation-ECG</li> <li>Imaging-CXR</li> <li>Consultation with Physician</li></ul>"
+  },
+  {
+    "id": 2,
+    "title": "Executive Health Check Male Package",
+    "link": "executive-health-check-male-package",
+    "img": "executive-health-check-male-package.jpg",
+    "type": "",
+    "price": "Rs. 5000",
+    "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar-FBS. PPBS</li><li>Renal-BUN, S. Creatinine, S. Electrolytes</li><li>LFT-TP. Albumin, Globulin, Bilirubin, SGOT, SGPT ALP, GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HDL, LDL, VLDL</li><li>TSH</li><li>S PSA</li><li>Cardiac Evaluation ECG, TMT/ECHO</li><li>Imaging-CXR, USG abdomen and pelvis</li><li>Consultation with Physician</li></ul>"
+  },
+  {
+    "id": 3,
+    "title": "Well Women Package (Below 40 Years) (PAP SMEAR along with HPV 5000/-)",
+    "link": "well-women-package-below-40-years",
+    "img": "well-women-package-below-40-years.jpg",
+    "type": "",
+    "price": "Rs. 3800",
+    "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar-FBS, PPBS</li><li>Renal BUN, S. Creatinine, S. Calcium</li><li>LFT-TP. Albumin, Globulin, Bilirubin SGOT, SGPT, ALP, GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HDL, LDL, VLDL</li><li>TSH, Vitamin B12</li><li>Imaging-CXR, USG abdomen and pelvis</li><li>Pap Smear</li><li>Cardiac Evaluation- ECG</li><li>Consultation with Physician, Gynaecologist.</li></ul>"
+  },
+  {
+    "id": 4,
+    "title": "Well Women Package (Above 40 Years)",
+    "link": "well-women-package-above-40-years",
+    "img": "well-women-package-above-40-years.jpg",
+    "type": "",
+    "price": "Rs. 5000",
+    "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar-FBS, PPBS</li><li>Renal-BUN S. Creatinine, S. Calcium</li><li>LFT-TP, Albumin, Globulin, Bilirubin, SGOT SGPT ALP GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HDL, LDL, VLDL</li><li>Thyroid Function Test - T3, T4, TSH</li><li>Imaging-CXR, USG abdomen and pelvis</li><li>Bilateral Breast imaging (Ultrasound)</li><li>Pap Smear</li><li>Vitamin D and Vitamin B12</li><li>Consultation with Physician, Gynaecologist, Orthopaedic</li></ul>"
+  },
+  {
+    "id": 5,
+    "title": "Advanced Well Women Package (Above 55 Years)",
+    "link": "advanced-well-women-package-above-55-years",
+    "img": "advanced-well-women-package-above-55-years.jpg",
+    "type": "",
+    "price": "Rs. 6000",
+    "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar FBS, PPBS</li><li>Renal-BUN, S. Creatinine, S. Calcium</li><li>LFT-TP. Albumin, Globulin, Bilirubin, SGOT, SGPT ALP GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HDL, LDL, VIDL</li><li>Thyroid Function Test-T3, T4, TSH</li><li>Imaging-CXR, USG abdomen and pelvis</li><li>Bilateral Breast imaging (Ultrasound)</li><li>Pap Smear</li><li>Vitamin D, Vitamin B12</li><li>Consultation with Physician, Gynaecologist, orthopaedic.</li></ul>"
+  },
+  {
+    "id": 6,
+    "title": "Senior Citizen Basic Package",
+    "link": "senior-citizen-basic-package",
+    "img": "senior-citizen-basic-package.jpg",
+    "type": "",
+    "price": "Rs. 1200",
+    "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar-FBS, PPBS</li><li>Renal S. Creatinine, S. Uric acid</li><li>LFT-TP Albumin, Globulin, Bilirubin, SGOT, SGPT, ALP, GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HD HDL, LDL,</li><li>VLDL</li><li>TSH, ECG</li><li>Consultation with Physician, Gynaecologist, Orthopaedic.</li></ul>"
+  },
+  {
+    "id": 7,
+    "title": "Senior Citizen Executive Male Package",
+    "link": "senior-citizen-executive-male-package",
+    "img": "senior-citizen-executive-male-package.jpg",
+    "type": "",
+    "price": "Rs. 4000",
+    "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar-FBS, HBAIC, PPBS</li><li>Serum Electrolytes</li><li>Renal-BUN S. Creatinine, S. Calcium</li><li>LFT-TP Albumin, Globulin, Bilirubin, SGOT, SGPT, ALP, GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HDL, LOL, VIDL</li><li>Thyroid Function Test-TSH T3, T4</li><li>S PSA</li><li>Cardiac Evaluation - ECG, ECHO</li><li>Imaging-CXR, USG abdomen and pelvis</li><li>Consultation with Physician, orthopaedic.</li></ul>"
+  },
+  {
+    "id": 8,
+    "title": "Senior Citizen Executive Female Package",
+    "link": "senior-citizen-executive-female-package",
+    "img": "senior-citizen-executive-female-package.jpg",
+    "type": "",
+    "price": "Rs. 4000",
+    "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar-FBS, HBAIC PPBS</li><li>Serum Electrolytes Renal-BUN, S. Creatinine, S. Calcium</li><li>LFT-TP Albumin, Globulin, Bilirubin, SGOT, SGPT, ALP, GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HDL, LDL, VLDL</li><li>Thyroid Function Test - TSH ТЗ, T4</li><li>Cardiac Evaluation - ECG ECHО</li><li>Imaging - CXR, USG abdomen and pelvis</li><li>PAP Smear</li><li>Consultation with Physician, Gynaecologist, Orthopaedic</li></ul>"
+  },
+  {
+    "id": 9,
+    "title": "Basic School Paediatric Package",
+    "link": "basic-school-paediatric-package",
+    "img": "basic-school-paediatric-package.jpg",
+    "type": "",
+    "price": "Rs. 1000",
+    "content": "<ul><li>Eye Screening</li><li>Dentist Check-up</li><li>Consultation with Paediatrician.</li></ul>"
+  },
+  {
+    "id": 10,
+    "title": "Advanced Paediatric Package",
+    "link": "advanced-paediatric-package",
+    "img": "basic-school-paediatric-package.jpg",
+    "type": "",
+    "price": "Rs. 3000",
+    "content": "<ul><li>CBC</li><li>Peripheral Smear</li><li>Serum Creatinine</li><li>Urine Routine and Microscopy</li><li>TSH</li><li>Vitamin D Total</li><li>Consultation with Paediatrician, Eye and Dentist.</li></ul>"
+  },
+  {
+    "id": 11,
+    "title": "Comprehensive Diabetic Package",
+    "link": "comprehensive-diabetic-package",
+    "img": "comprehensive-diabetic-package.jpg",
+    "type": "",
+    "price": "Rs. 5000",
+    "content": "<ul><li>CBC with ESR</li><li>Urine Routine, Urine Microalbumin Creatinine Ratio</li><li>Blood Sugar - FBS, HBAIC, PPBS</li><li>Renal - BUN, S. Creatinine, S. Electrolytes, S. Uric Acid, Calcium,</li><li>Phosphorus, eGFR</li><li>LFT-TP, Albumin, Globulin, Bilirubin, SGOT, SGPT, ALP, GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HDL, LDL, VLDL</li><li>Thyroid Function Test T3, T4, TSH</li><li>Cardiac Evaluation - ECG, TMT/ECHO</li><li>Imaging - CXR, USG abdomen and pelvis</li><li>Consultation with Dietician, Physician.</li></ul>"
+  }
+]

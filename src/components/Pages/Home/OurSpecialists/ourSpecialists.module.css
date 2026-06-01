@@ -1,0 +1,72 @@
+.doctor_items_wrapper {
+  position: relative;
+}
+.doctor_items {
+  width: 95%;
+  margin: 0 auto;
+}
+.doctor_items {
+  margin-top: 30px;
+  /* display: flex;
+  justify-content: space-evenly; */
+}
+
+.doctor_item {
+  width: 95%;
+  margin: 0 auto;
+}
+.doctor_item > div {
+  padding-top: 20px;
+}
+.doctor_item > div p {
+  margin: 0px 0px 15px;
+}
+.doctor_item_link {
+  display: flex;
+  gap: 10px;
+}
+.doctor_item_link a {
+  border: 1px solid var(--first);
+  width: fit-content;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  color: black;
+  border-radius: 6px;
+}
+.doctor_item_link a:hover {
+  background-color: var(--first);
+  color: var(--white);
+}
+
+.swiper_button {
+  position: absolute;
+  top: 0;
+  z-index: 2;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.swiper_button button {
+  background-color: var(--first);
+  border: none;
+  outline: none;
+  padding: 10px;
+  font-size: var(--step-2);
+  border-radius: 50%;
+  color: var(--white);
+  cursor: pointer;
+  font-weight: bold;
+}
+.swiper_button svg {
+  font-weight: bold;
+}
+
+@media (max-width: 650px) {
+  .doctor_item {
+    width: fit-content;
+    margin: 0 auto;
+  }
+}
