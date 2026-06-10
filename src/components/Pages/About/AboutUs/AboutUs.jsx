@@ -19,7 +19,7 @@ export default function AboutUs() {
         <section className={styles.content_items}>
           <section className={styles.content_img}>
             <Image
-              src={"/images/about/hospital_photo.jpeg"}
+              src={"/images/about/hospitalphoto.jpeg"}
               width={400}
               height={450}
               alt="Picture of the author"

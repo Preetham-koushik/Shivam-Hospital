@@ -14,7 +14,7 @@ export default function Ceo() {
 
 <section className={styles.content_img}>
             <Image
-              src={"/images/about/lead_doc.jpeg"}
+              src={"/images/about/leaddoc.jpeg"}
               width={350}
               height={350}
               alt="Picture of the author"
