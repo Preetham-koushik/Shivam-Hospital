@@ -65,14 +65,14 @@
     }
   },
   {
-    "id": "3",
+    "id": "4",
     "firstname": "Neha",
     "lastname": "ShivKumar",
     "link": "neha-shivkumar",
     "gender": "f",
     "isDoctor": true,
     "isConsultant": true,
-    "speciality": ["Obstetrics"],
+    "speciality": ["obstetrics"],
     "designation": "Specialist in Paediatrics & Neonatology",
     "qualification": "MBBS, MS , DNB(OBG), FRM",
     "content": "",
@@ -86,7 +86,7 @@
     }
   },
   {
-    "id": "3",
+    "id": "5",
     "firstname": "Akash",
     "lastname": " ",
     "link": "akash",
