@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import styles from "./wcLeadForm.module.css";
+import styles from "./WCLeadForm.module.css";
 import Container from "@/components/Layouts/Container";
 import { FaPhoneAlt, FaWhatsapp } from "react-icons/fa";
 

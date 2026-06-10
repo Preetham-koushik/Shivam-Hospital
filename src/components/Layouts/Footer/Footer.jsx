@@ -18,7 +18,7 @@ export default function Footer() {
         <section className={styles.items}>
           <section className={styles.phone_number}>
             <FaPhoneSquareAlt />
-            <p className="ptag">For Emergency Cases</p>
+            <p className="ptag classWhite">For Emergency Cases</p>
             <a href="tel:9606028161">9606028161</a>
           </section>
           <section className={styles.footer_link_wrapper}>
@@ -31,7 +31,7 @@ export default function Footer() {
                   alt="Shivam Hospital Logo"
                 />
               </Link>
-              <p className="ptag">
+              <p className="ptag" style={{color:"white"}}>
                 At Shivam Women and Children Hospital and Shivam Advanced
                 Orthocare Hospital, we are staffed with experienced consultants
                 who offer professional care across various specialties and
@@ -96,7 +96,7 @@ export default function Footer() {
       </Container>
       <section className={styles.copyrights}>
         <Container width>
-          <p>Copyrights &copy; 2025 Shivam Hospital</p>
+          <p style={{color:"white"}}>Copyrights &copy; 2025 Shivam Hospital</p>
         </Container>
       </section>
       <SeoFooter />

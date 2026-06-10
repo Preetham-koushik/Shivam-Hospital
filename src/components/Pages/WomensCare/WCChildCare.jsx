@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./wcChildCare.module.css";
+import styles from "./WCChildCare.module.css";
 import Container from "@/components/Layouts/Container";
 import SectionTitle from "@/components/Assets/Ui/SectionTitle/SectionTitle";
 import Link from "next/link";

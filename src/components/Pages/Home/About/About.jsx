@@ -21,7 +21,7 @@ export default function About() {
             /> */}
             <div className={styles.one_img}>
               <img
-                src="/images/home/about/hospital_photo.png"
+                src="/images/home/about/hospital.png"
                 alt="Shivam Women and Children Hospital Image"
               />
             </div>

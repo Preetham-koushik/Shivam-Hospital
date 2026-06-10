@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./wcHero.module.css";
+import styles from "./Wchero.module.css";
 import Container from "@/components/Layouts/Container";
 import SpecialityForm from "@/components/Assets/Ui/Forms/SpecialityForm/SpecialityForm";
 import Link from "next/link";
@@ -31,6 +31,7 @@ export default function WCHero() {
               <a href="tel:9606028161" className={styles.cta_secondary}>
                 <FaPhoneAlt /> Call Now
               </a>
+              {/* link */}
               <a
                 href="https://wa.me/919606028161"
                 target="_blank"
@@ -49,3 +50,4 @@ export default function WCHero() {
     </section>
   );
 }
+// 

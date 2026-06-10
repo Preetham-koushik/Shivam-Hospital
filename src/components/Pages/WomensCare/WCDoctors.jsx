@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./wcDoctors.module.css";
+import styles from "./WCDoctors.module.css";
 import Container from "@/components/Layouts/Container";
 import SectionTitle from "@/components/Assets/Ui/SectionTitle/SectionTitle";
 import Image from "next/image";

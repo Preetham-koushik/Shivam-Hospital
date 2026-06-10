@@ -20,6 +20,16 @@
     "link": "/services"
   },
   {
+    "id": 3,
+    "title": "Women Care",
+    "link": "/womens-care"
+  },
+  {
+    "id": 3,
+    "title": "Orthopaedics",
+    "link": "/orthopaedics"
+  },
+  {
     "id": 11,
     "title": "Packages",
     "link": "/packages"

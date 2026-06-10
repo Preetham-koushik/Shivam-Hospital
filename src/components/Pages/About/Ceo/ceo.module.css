@@ -7,7 +7,7 @@
 }
 .content_items {
   display: grid;
-  grid-template-columns: 60% 38%;
+  grid-template-columns: 38% 60%;
   align-items: center;
   justify-content: space-between;
 }
@@ -15,7 +15,7 @@
 }
 
 .content_img img {
-  /* object-fit: cover; */
+   object-position: right 10%; 
 
   border-radius: 50%;
   margin: 0 auto;

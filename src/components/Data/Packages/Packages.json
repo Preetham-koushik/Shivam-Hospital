@@ -32,7 +32,7 @@
     "link": "well-women-package-above-40-years",
     "img": "well-women-package-above-40-years.jpg",
     "type": "",
-    "price": "Rs. 5000",
+    "price": "Rs. 9940",
     "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar-FBS, PPBS</li><li>Renal-BUN S. Creatinine, S. Calcium</li><li>LFT-TP, Albumin, Globulin, Bilirubin, SGOT SGPT ALP GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HDL, LDL, VLDL</li><li>Thyroid Function Test - T3, T4, TSH</li><li>Imaging-CXR, USG abdomen and pelvis</li><li>Bilateral Breast imaging (Ultrasound)</li><li>Pap Smear</li><li>Vitamin D and Vitamin B12</li><li>Consultation with Physician, Gynaecologist, Orthopaedic</li></ul>"
   },
   {
@@ -41,7 +41,7 @@
     "link": "advanced-well-women-package-above-55-years",
     "img": "advanced-well-women-package-above-55-years.jpg",
     "type": "",
-    "price": "Rs. 6000",
+    "price": "Rs. 7200",
     "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar FBS, PPBS</li><li>Renal-BUN, S. Creatinine, S. Calcium</li><li>LFT-TP. Albumin, Globulin, Bilirubin, SGOT, SGPT ALP GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HDL, LDL, VIDL</li><li>Thyroid Function Test-T3, T4, TSH</li><li>Imaging-CXR, USG abdomen and pelvis</li><li>Bilateral Breast imaging (Ultrasound)</li><li>Pap Smear</li><li>Vitamin D, Vitamin B12</li><li>Consultation with Physician, Gynaecologist, orthopaedic.</li></ul>"
   },
   {
@@ -50,7 +50,7 @@
     "link": "senior-citizen-basic-package",
     "img": "senior-citizen-basic-package.jpg",
     "type": "",
-    "price": "Rs. 1200",
+    "price": "Rs. 2880",
     "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar-FBS, PPBS</li><li>Renal S. Creatinine, S. Uric acid</li><li>LFT-TP Albumin, Globulin, Bilirubin, SGOT, SGPT, ALP, GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HD HDL, LDL,</li><li>VLDL</li><li>TSH, ECG</li><li>Consultation with Physician, Gynaecologist, Orthopaedic.</li></ul>"
   },
   {
@@ -59,7 +59,7 @@
     "link": "senior-citizen-executive-male-package",
     "img": "senior-citizen-executive-male-package.jpg",
     "type": "",
-    "price": "Rs. 4000",
+    "price": "Rs. 3090",
     "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar-FBS, HBAIC, PPBS</li><li>Serum Electrolytes</li><li>Renal-BUN S. Creatinine, S. Calcium</li><li>LFT-TP Albumin, Globulin, Bilirubin, SGOT, SGPT, ALP, GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HDL, LOL, VIDL</li><li>Thyroid Function Test-TSH T3, T4</li><li>S PSA</li><li>Cardiac Evaluation - ECG, ECHO</li><li>Imaging-CXR, USG abdomen and pelvis</li><li>Consultation with Physician, orthopaedic.</li></ul>"
   },
   {
@@ -68,7 +68,7 @@
     "link": "senior-citizen-executive-female-package",
     "img": "senior-citizen-executive-female-package.jpg",
     "type": "",
-    "price": "Rs. 4000",
+    "price": "Rs. 4830",
     "content": "<ul><li>CBC with ESR</li><li>Urine Routine</li><li>Blood Sugar-FBS, HBAIC PPBS</li><li>Serum Electrolytes Renal-BUN, S. Creatinine, S. Calcium</li><li>LFT-TP Albumin, Globulin, Bilirubin, SGOT, SGPT, ALP, GGT</li><li>Lipid Profile - Total Cholesterol, Triglycerides, HDL, LDL, VLDL</li><li>Thyroid Function Test - TSH ТЗ, T4</li><li>Cardiac Evaluation - ECG ECHО</li><li>Imaging - CXR, USG abdomen and pelvis</li><li>PAP Smear</li><li>Consultation with Physician, Gynaecologist, Orthopaedic</li></ul>"
   },
   {
@@ -86,7 +86,7 @@
     "link": "advanced-paediatric-package",
     "img": "basic-school-paediatric-package.jpg",
     "type": "",
-    "price": "Rs. 3000",
+    "price": "Rs. 2640",
     "content": "<ul><li>CBC</li><li>Peripheral Smear</li><li>Serum Creatinine</li><li>Urine Routine and Microscopy</li><li>TSH</li><li>Vitamin D Total</li><li>Consultation with Paediatrician, Eye and Dentist.</li></ul>"
   },
   {

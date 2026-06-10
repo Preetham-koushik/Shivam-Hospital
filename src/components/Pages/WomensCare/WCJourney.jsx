@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./wcJourney.module.css";
+import styles from "./WCJourney.module.css";
 import Container from "@/components/Layouts/Container";
 import SectionTitle from "@/components/Assets/Ui/SectionTitle/SectionTitle";
 

@@ -71,11 +71,7 @@ export default function OurSpecialists() {
                             <Link href={`/doctors/${item.link}`}>
                               View Profile
                             </Link>
-                            {item.videoConsultLink && (
-                              <Link href={`${item.videoConsultLink}`}>
-                                Video consultation
-                              </Link>
-                            )}
+                           
                           </div>
                         </div>
                       </article>

@@ -74,7 +74,7 @@ export default function Counters() {
 
           <article className={styles.counters_item}>
             <Image
-              src={"/images/counters/deliveries.png"}
+              src={"/images/counters/family.png"}
               width={70}
               height={70}
               alt="Happy Families"
@@ -95,7 +95,7 @@ export default function Counters() {
           
           <article className={styles.counters_item}>
             <Image
-              src={"/images/counters/patients.png"}
+              src={"/images/counters/serv.png"}
               width={70}
               height={70}
               alt="24/7 Emergency Support"

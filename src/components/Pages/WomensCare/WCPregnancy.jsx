@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./wcPregnancy.module.css";
+import styles from "./WCPregnancy.module.css";
 import Container from "@/components/Layouts/Container";
 import SectionTitle from "@/components/Assets/Ui/SectionTitle/SectionTitle";
 import Link from "next/link";

@@ -11,6 +11,17 @@ export default function Ceo() {
     <section className={`${styles.wrapper} margin`}>
       <Container width>
         <section className={styles.content_items}>
+
+<section className={styles.content_img}>
+            <Image
+              src={"/images/about/lead_doc.jpeg"}
+              width={350}
+              height={350}
+              alt="Picture of the author"
+              style={{ objectFit: "cover" }}
+            />
+          </section>
+
           <section className={styles.content}>
             <h1 className="title">Meet the Lead Doctor</h1>
             <p className="ptag">
@@ -33,15 +44,7 @@ export default function Ceo() {
               <li>Deleniti, sunt!</li>
             </ul> */}
           </section>
-          <section className={styles.content_img}>
-            <Image
-              src={"/images/about/lead_doc.jpg"}
-              width={350}
-              height={350}
-              alt="Picture of the author"
-              style={{ objectFit: "cover" }}
-            />
-          </section>
+          
         </section>
       </Container>
     </section>

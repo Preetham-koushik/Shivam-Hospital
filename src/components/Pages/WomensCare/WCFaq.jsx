@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import styles from "./wcFaq.module.css";
+import styles from "./WCFaq.module.css";
 import Container from "@/components/Layouts/Container";
 import SectionTitle from "@/components/Assets/Ui/SectionTitle/SectionTitle";
 

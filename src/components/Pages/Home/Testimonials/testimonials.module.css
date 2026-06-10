@@ -1,107 +1,138 @@
-.testimonial_items {
-  position: relative;
-}
-.testimonial_slider_wrapper {
-  width: 90%;
-  margin: 30px auto;
+.wrapper {
+  background: #eef2f7;
 }
 
-.testimonial_item {
-  width: 95%;
-  margin: 0 auto;
-
-  padding: 10px;
-  border-radius: 15px 0px 15px 0px;
-
-  background: var(--bg);
+.title_wrap {
+  text-align: center;
+  margin-bottom: 40px;
 }
 
-.testimonial_title {
-  display: grid;
-  grid-template-columns: 15% 70% 10%;
+.swiper {
+  padding: 20px 4px 30px !important;
+}
+
+/* Make all slides equal height */
+.swiper :global(.swiper-wrapper) {
+  align-items: stretch;
+}
+
+.slide {
+  height: auto !important;
+}
+
+/* ── Card ── */
+.card {
+  background: var(--white);
+  border-radius: 16px;
+  padding: 24px 22px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card_active {
+  background: linear-gradient(135deg, var(--first) 0%, var(--title-color) 100%);
+  transform: translateY(-8px);
+  box-shadow: 0 16px 40px rgba(177, 64, 82, 0.3);
+}
+
+/* ── Quote ── */
+.quote {
+  font-size: 48px;
+  line-height: 0.6;
+  font-family: Georgia, serif;
+  font-weight: 700;
+  color: var(--black-3);
+  flex-shrink: 0;
+}
+
+.card_active .quote {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+/* ── Stars ── */
+.stars {
+  display: flex;
+  gap: 3px;
+  flex-shrink: 0;
+}
+
+.star {
+  font-size: 13px;
+  color: #f5a623;
+}
+
+.card_active .star {
+  color: #ffd580;
+}
+
+/* ── Description ── */
+.desc {
+  font-size: 13px;
+  color: var(--para-color);
+  line-height: 1.75;
+  flex: 1;
+}
+
+.card_active .desc {
+  color: rgba(255, 255, 255, 0.88);
+}
+
+/* ── Footer ── */
+.footer {
+  display: flex;
+  align-items: center;
   gap: 10px;
-  margin-bottom: 15px;
+  padding-top: 12px;
+  border-top: 1px solid var(--black-3);
+  margin-top: auto;
+  flex-shrink: 0;
 }
-.testimonial_title > img {
+
+.card_active .footer {
+  border-top-color: rgba(255, 255, 255, 0.2);
 }
-.testimonial_title > div {
-}
-.testimonial_letter {
-  display: flex;
-  align-items: center;
-}
-.testimonial_letter p {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: var(--first);
-  color: var(--white);
-  height: 80%;
+
+.avatar {
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
-  aspect-ratio: 1/1;
-  font-size: var(--step-4);
-  font-weight: bold;
-}
-.testimonial_name h3 {
-  font-size: var(--step-2);
+  background: var(--second);
   color: var(--first);
-}
-.testimonial_name img {
-  width: 100px;
-  height: auto;
-}
-.testimonial_content p {
-  min-height: 200px;
-  max-height: 200px;
-  overflow-y: scroll;
-}
-.team_btns {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
+  font-size: 14px;
+  font-weight: 700;
   display: flex;
-  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
 }
 
-.team_btns button {
-  border: 2px solid var(--first);
-  border-radius: 50%;
-  background: none;
-  padding: 5px;
-  cursor: pointer;
-}
-.team_btns svg {
-  font-size: var(--step-6);
+.card_active .avatar {
+  background: rgba(255, 255, 255, 0.2);
+  color: var(--white);
 }
 
-@media (max-width: 600px) {
-  .testimonial_title > img {
-    width: auto;
-    height: auto;
-    margin-right: 5px;
-  }
-  .testimonial_name h3 {
-    font-size: var(--step-0);
-  }
-  .testimonial_name img {
-    width: 70px;
-    height: auto;
-  }
+.name {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--title-color);
+  margin: 0;
+}
 
-  .team_btns {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    z-index: 99;
-  }
+.card_active .name {
+  color: var(--white);
+}
 
-  .team_btns svg {
-    font-size: var(--step-3);
-  }
+.location {
+  font-size: 11px;
+  color: var(--para-color);
+  margin: 0;
+  margin-top: 1px;
+}
+
+.card_active .location {
+  color: rgba(255, 255, 255, 0.6);
 }

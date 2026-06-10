@@ -1,63 +1,186 @@
-.about_title {
-  margin-bottom: 30px;
+.wrapper {
+  background: var(--bg);
 }
-.content_items {
+
+.title_wrap {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.grid {
   display: grid;
-  grid-template-columns: 50% 50%;
-  justify-content: space-between;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
 }
 
-.content_items > section {
-}
-.content_circle > div {
-  border-radius: 50%;
-  background-color: var(--first);
-
-  margin: 0 auto;
-  width: 80%;
-  aspect-ratio: 1/1;
-
+/* ── Card base ── */
+.card {
+  background: var(--white);
+  border: 1px solid var(--black-3);
+  border-radius: 20px;
+  padding: 40px 36px;
   display: flex;
   flex-direction: column;
+  gap: 20px;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.08);
+}
+
+/* background watermark */
+.card::before {
+  content: '';
+  position: absolute;
+  top: -40px;
+  right: -40px;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background: var(--second);
+  opacity: 0.4;
+  z-index: 0;
+}
+
+/* ── Accent card (Vision) ── */
+.card_accent {
+  background: var(--title-color);
+  border-color: var(--title-color);
+}
+
+.card_accent::before {
+  background: rgba(255, 255, 255, 0.06);
+  opacity: 1;
+}
+
+.card_accent:hover {
+  box-shadow: 0 16px 48px rgba(7, 56, 66, 0.3);
+}
+
+/* ── Card top ── */
+.card_top {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  position: relative;
+  z-index: 1;
+}
+
+.icon_wrap {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: var(--second);
+  color: var(--first);
+  font-size: 20px;
+  display: flex;
   align-items: center;
   justify-content: center;
-  gap: 15px;
+  flex-shrink: 0;
 }
-.content_items {
-  color: var(--white);
-}
-.content_items p {
-  color: var(--white);
-  text-align: center;
-  font-size: var(--step--1);
-  width: 85%;
-  margin: 0 auto;
-}
-.content_items svg {
-  font-size: var(--step-10);
-}
-@media (max-width: 800px) {
-  .content_img img {
-    width: 95%;
-    height: 100%;
-  }
-}
-@media (max-width: 700px) {
-  .content_img img {
-    height: 300px;
-  }
-  .content_items {
-    display: grid;
-    grid-template-columns: 100%;
-  }
-  .content_items > section {
-    margin-bottom: 20px;
-  }
-  .content_circle > div {
-    margin: 0 auto;
-    width: 95%;
-    padding: 10px 0px;
 
-    border-radius: 10px 0px 10px 0px;
+.icon_wrap_accent {
+  background: rgba(255, 255, 255, 0.12);
+  color: var(--second);
+}
+
+.card_label {
+  font-size: var(--step-2);
+  font-weight: 700;
+  color: var(--title-color);
+  letter-spacing: 0.3px;
+}
+
+.card_label_accent {
+  color: var(--white);
+}
+
+/* ── Divider ── */
+.divider {
+  height: 1px;
+  background: var(--black-3);
+  position: relative;
+  z-index: 1;
+}
+
+.divider_accent {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+/* ── Quote ── */
+.quote {
+  font-size: var(--step-1);
+  color: var(--para-color);
+  line-height: 1.85;
+  font-style: italic;
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  flex: 1;
+}
+
+.quote_accent {
+  color: rgba(255, 255, 255, 0.78);
+}
+
+/* Large background quote mark */
+.quote::before {
+  content: '\201C';
+  position: absolute;
+  top: -20px;
+  left: -10px;
+  font-size: 100px;
+  font-family: Georgia, serif;
+  color: var(--second);
+  line-height: 1;
+  z-index: -1;
+  opacity: 0.6;
+}
+
+.quote_accent::before {
+  color: rgba(255, 255, 255, 0.08);
+  opacity: 1;
+}
+
+/* ── Footer dots ── */
+.card_footer {
+  display: flex;
+  gap: 6px;
+  position: relative;
+  z-index: 1;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--black-3);
+}
+
+.dot:first-child {
+  background: var(--first);
+  width: 24px;
+  border-radius: 4px;
+}
+
+.dot_accent {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.dot_accent:first-child {
+  background: var(--second);
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .card {
+    padding: 30px 24px;
   }
 }

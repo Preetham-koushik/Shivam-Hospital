@@ -7,12 +7,12 @@
     "specialityName": "Obstetrics",
     "seoTitle": {
       "title": "Best Maternity Hospital in Basaveshwar Nagar | Obstetrics hospital in Bangalore",
-      "desc": "Shivam Women & Child Care Hospital is one of the best maternity hospital in Basveshwarnagar with the leading obstetrician in Basaveshwarnagar and state-of- art technology."
+      "desc": "Shivam Women & Child Care Hospital is one of the best maternity hospital in Basaveshwarnagar with the leading obstetrician in Basaveshwarnagar and state-of-art technology."
     },
-    "excerpt": "Shivam Women & Children Hospital is renowned healthcare provider known for its comprehensive obstetric services across Basaveshwar Nagar and surrounding areas.",
+    "excerpt":"Our obstetrics team is dedicated to providing expert care throughout pregnancy, labor, and childbirth. We closely monitor maternal and fetal health to ensure safe deliveries and positive outcomes for both mother and baby.With experienced obstetricians, advanced diagnostic support, and emergency care availability, Shivam Mother and Child Care ensures complete pregnancy care with a focus on safety, trust, and personalized attention.",
     "icon": "obj.png",
     "imgAltText": "Doctor examining pregnant woman's womb",
-    "img": "obj.jpg",
+    "img": "obstetrics.jpeg",
     "banImg": "obj.jpg",
     "imgAlt": "Comprehensive Obstetrics Care in Bangalore",
     "topContent": [
@@ -20,13 +20,13 @@
         "id": 4.1,
         "btnTitle": "Overview",
         "title": "Comprehensive Obstetrics Care in Bangalore",
-        "content": "<div><p>Shivam Women & Children Hospital is renowned healthcare provider known for its comprehensive obstetric services across Basaveshwar Nagar and surrounding areas.</p></div>"
+        "content": "<div><p>Our obstetrics team is dedicated to providing expert care throughout pregnancy, labor, and childbirth. We closely monitor maternal and fetal health to ensure safe deliveries and positive outcomes for both mother and baby.</p><p>With experienced obstetricians, advanced diagnostic support, and emergency care availability, Shivam Mother and Child Care ensures complete pregnancy care with a focus on safety, trust, and personalized attention.</p></div>"
       },
       {
         "id": 4.2,
         "btnTitle": "Treatments",
         "title": "Treatments",
-        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore. They include:</p><ul><li>Routine Prenatal Check-ups</li><li>High-Risk Pregnancy Management</li><li>Fetal Monitoring and Ultrasound</li><li>Labour and Delivery Services</li><li>Postnatal Care</li><li>Prenatal Counseling and Education</li><li>Gestational Diabetes Management</li><li>Hypertension Management in Pregnancy</li><li>Multiple Pregnancies Care</li><li>Preterm Birth Prevention</li></ul><h2>Leading Obstetrics Hospital in Basaveshwar Nagar, Bangalore</h2><p>Shivam Mother and Child Care is a top obstetrics hospital in Basaveshwar Nagar. Our goal is to provide complete care and guidance to women throughout their pregnancy, covering all types of obstetric conditions. With advanced tools and equipment, our expert obstetricians and experienced team are here to provide you with the best possible treatment.</p></div>"
       }
     ]
   },
@@ -40,10 +40,10 @@
       "title": "Best Gynaecology Hospital in Basaveshwarnagar, Bangalore",
       "desc": "Shivam Hospital is one of the best gynaecology hospital in Basaveshwarnagar with the best gynaecologist in Basaveshwarnagar and fully equipped with advanced technology."
     },
-    "excerpt": "Shivam Women & Children Hospital is renowned for its comprehensive healthcare services provided throughout Basaveshwar Nagar and surrounding areas.",
+    "excerpt":"Our gynecology department offers specialized care for women’s health concerns across all stages of life. From menstrual disorders and PCOS to menopause management and preventive screenings, our specialists provide personalized diagnosis and treatment in a comfortable environment.At Shivam Mother and Child Care, we prioritize women’s wellness with advanced gynecological care, modern treatment approaches, and compassionate support tailored to every patient’s needs.",
     "icon": "gyn.png",
     "imgAltText": "Gynecologist explaining diagnosis to patient",
-    "img": "gyn.jpg",
+    "img": "gynaecology.jpeg",
     "banImg": "gyn.jpg",
     "imgAlt": "Best Gynaecology Treatment in Bangalore",
     "topContent": [
@@ -51,13 +51,44 @@
         "id": 2.1,
         "btnTitle": "Overview",
         "title": "Best Gynaecology Treatment in Bangalore",
-        "content": "<div><p>Shivam Women & Children Hospital is renowned for its comprehensive healthcare services provided throughout Basaveshwar Nagar and surrounding areas.</p></div>"
+        "content": "<div><p>Our gynecology department offers specialized care for women's health concerns across all stages of life. From menstrual disorders and PCOS to menopause management and preventive screenings, our specialists provide personalized diagnosis and treatment in a comfortable environment.</p><p>At Shivam Mother and Child Care, we prioritize women's wellness with advanced gynecological care, modern treatment approaches, and compassionate support tailored to every patient's needs.</p></div>"
       },
       {
         "id": 2.2,
         "btnTitle": "Treatments",
         "title": "Treatments",
-        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore. They include:</p><ul><li>Hysterectomy</li><li>Advanced Laparoscopic Gynaecological Surgery</li><li>Pap Smear and Colposcopy</li><li>Endometriosis Treatment</li><li>Fibroid Treatment</li><li>Urinary Incontinence Treatment</li><li>Treatments for UTI & Pelvic Inflammatory Disease</li><li>Prolapse Treatment</li><li>Premenstrual Syndrome Treatment</li><li>Contraception</li></ul><h2>Best Gynaecology Hospital in Basaveshwar Nagar, Bangalore</h2><p>Shivam Mother and Child Care is a premier gynaecology hospital in Basaveshwar Nagar. Our mission is to provide complete care and guidance to women of all ages, addressing all types of gynaecological conditions. Using advanced tools and equipment, our expert gynaecologists and experienced team are dedicated to offering the best possible treatment.</p></div>"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "deptTitle": "Department of Maternity",
+    "title": "Maternity Care in Bangalore",
+    "link": "best-maternity-care-in-basaveshwaranagara",
+    "specialityName": "Maternity",
+    "seoTitle": {
+      "title": "Best Maternity Care Hospital in Basaveshwarnagar, Bangalore",
+      "desc": "Shivam Mother and Child Care provides compassionate and comprehensive maternity care to support mothers through every stage of pregnancy, delivery, and postnatal recovery."
+    },
+    "excerpt": "At Shivam Mother and Child Care, we provide compassionate and comprehensive maternity care to support mothers through every stage of pregnancy, delivery, and postnatal recovery. Our experienced team focuses on ensuring the safety, comfort, and well-being of both mother and baby with personalized care plans and advanced medical support.From routine antenatal checkups to high-risk pregnancy management, we are committed to making your motherhood journey safe, joyful, and memorable. Our maternity services are designed to provide expert care with warmth and compassion.",
+    "icon": "obj.png",
+    "imgAltText": "Maternity care at Shivam Hospital",
+    "img": "mat.jpeg",
+    "banImg": "obj.jpg",
+    "imgAlt": "Maternity Care in Bangalore",
+    "topContent": [
+      {
+        "id": 11.1,
+        "btnTitle": "Overview",
+        "title": "Maternity Care in Bangalore",
+        "content": "<div><p>At Shivam Mother and Child Care, we provide compassionate and comprehensive maternity care to support mothers through every stage of pregnancy, delivery, and postnatal recovery. Our experienced team focuses on ensuring the safety, comfort, and well-being of both mother and baby with personalized care plans and advanced medical support.</p><p>From routine antenatal checkups to high-risk pregnancy management, we are committed to making your motherhood journey safe, joyful, and memorable.</p></div>"
+      },
+      {
+        "id": 11.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>Our maternity services include:</p><ul><li>Routine Antenatal Checkups</li><li>High-Risk Pregnancy Management</li><li>Normal & C-Section Delivery</li><li>Postnatal Recovery Care</li><li>Lactation & Breastfeeding Support</li><li>Fetal Monitoring</li><li>Nutritional Counseling During Pregnancy</li></ul><h2>Best Maternity Hospital in Basaveshwar Nagar, Bangalore</h2><p>Shivam Mother and Child Care is a trusted maternity hospital in Basaveshwar Nagar. Our mission is to provide complete care and guidance to mothers at every stage, ensuring a safe and positive experience for both mother and baby. With advanced facilities and a dedicated team, we are committed to the highest standard of maternity care.</p></div>"
       }
     ]
   },
@@ -66,29 +97,29 @@
     "deptTitle": "Department of Orthopaedics",
     "title": "Best Orthopaedic Treatment in Bangalore",
     "link": "best-orthopaedic-treatment-in-basaveshwaranagara",
-    "specialityName": "Orthopaedics",
+    "specialityName": "Advanced Ortho Care",
     "seoTitle": {
       "title": "Best Orthopaedic & Joint Replacement Hospital in Basaveshwarnagar",
       "desc": "Shivam Hospital is one of the best orthopedic hospitals in Basaveshwarnagar. Best Orthopaedic doctors in Basaveshwarnagar offers the best treatment and facilities."
     },
-    "excerpt": "Shivam Advanced Orthocare Hospital is renowned for its comprehensive healthcare services provided throughout Basaveshwar Nagar and surrounding areas.",
+    "excerpt": "Our Advanced Ortho Care department provides expert diagnosis and treatment for bone, joint, spine, and sports-related conditions. We focus on helping patients regain mobility, reduce pain, and improve quality of life through personalized orthopaedic care.From non-surgical pain management and physiotherapy to advanced orthopaedic treatments, Shivam Hospital offers comprehensive care designed to support recovery and long-term mobility.",
     "icon": "pulmonology.png",
     "imgAltText": "Orthopedic doctor examining the patient's knee",
-    "img": "ortho.jpg",
+    "img": "ortho2.jpeg",
     "banImg": "ortho.jpg",
     "imgAlt": "Best Orthopaedic Treatment in Bangalore",
     "topContent": [
       {
-        "id": 5.1,
+        "id": 7.1,
         "btnTitle": "Overview",
         "title": "Best Orthopaedic Care in Bangalore",
-        "content": "<div><p>Shivam Advanced Orthocare Hospital is renowned for its comprehensive healthcare services provided throughout Basaveshwar Nagar and surrounding areas.</p></div>"
+        "content": "<div><p>Our Advanced Ortho Care department provides expert diagnosis and treatment for bone, joint, spine, and sports-related conditions. We focus on helping patients regain mobility, reduce pain, and improve quality of life through personalized orthopaedic care.</p><p>From non-surgical pain management and physiotherapy to advanced orthopaedic treatments, Shivam Hospital offers comprehensive care designed to support recovery and long-term mobility.</p></div>"
       },
       {
-        "id": 5.2,
+        "id": 7.2,
         "btnTitle": "Treatments",
         "title": "Treatments",
-        "content": "<div><p>The treatments offered at Shivam Advanced Orthocare Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+        "content": "<div><p>The treatments offered at Shivam Advanced Orthocare Hospital Basaveshwar Nagar are the best in Bangalore. They include:</p><ul><li>Joint Replacement Surgery (Knee, Hip, Shoulder)</li><li>Arthroscopy and Sports Medicine</li><li>Spine Surgery</li><li>Fracture and Trauma Care</li><li>Paediatric Orthopaedics</li><li>Hand and Microvascular Surgery</li><li>Foot and Ankle Surgery</li><li>Physiotherapy and Rehabilitation</li></ul><h2>Best Orthopaedic Hospital in Basaveshwar Nagar, Bangalore</h2><p>Shivam Advanced Orthocare Hospital is a premier orthopaedic hospital in Basaveshwar Nagar. Our mission is to provide complete care and guidance for individuals of all ages, addressing all types of musculoskeletal conditions. Using advanced tools and equipment, our expert orthopaedic surgeons and experienced team are dedicated to offering the best possible treatment.</p></div>"
       }
     ]
   },
@@ -100,26 +131,26 @@
     "specialityName": "Fertility",
     "seoTitle": {
       "title": "Best Fertility Hospital in Basaveshwarnagar | Best IVF Hospital in Basaveshwarnagar",
-      "desc": "Shivam Hospital is one of the best infertility center in Basaveshwarnagar. Our highly experienced fertility specialist in Basaveshwarnagar offer comprehensive treatment for fertility isssue."
+      "desc": "Shivam Hospital is one of the best infertility center in Basaveshwarnagar. Our highly experienced fertility specialist in Basaveshwarnagar offer comprehensive treatment for fertility issue."
     },
-    "excerpt": "Shivam Women & Children Hospital renowned for its outstanding fertility services provided throughout Basaveshwar Nagar and surrounding areas.",
+    "excerpt": "We understand the emotional and physical journey of parenthood, and our fertility specialists are here to support couples with compassionate and advanced fertility care. From fertility evaluations to personalized treatment plans, we help patients take confident steps toward achieving their dream of becoming parents.Our fertility services combine expert guidance, advanced diagnostics, and patient-centered care to provide hope and support throughout the fertility journey.",
     "icon": "anesthesiology.png",
     "imgAltText": "Woman smiling while reading pregnancy kit",
-    "img": "fertility.jpg",
-    "banImg": "fer.jpg",
+    "img": "fertility.jpeg",
+    "banImg": "fertility.jpg",
     "imgAlt": "Best Fertility Care in Bangalore",
     "topContent": [
       {
         "id": 1.1,
         "btnTitle": "Overview",
         "title": "Best Fertility Care in Bangalore",
-        "content": "<div><p>Shivam Women & Children Hospital renowned for its outstanding fertility services provided throughout Basaveshwar Nagar and surrounding areas.</p></div>"
+        "content": "<div><p>We understand the emotional and physical journey of parenthood, and our fertility specialists are here to support couples with compassionate and advanced fertility care. From fertility evaluations to personalized treatment plans, we help patients take confident steps toward achieving their dream of becoming parents.</p><p>Our fertility services combine expert guidance, advanced diagnostics, and patient-centered care to provide hope and support throughout the fertility journey.</p></div>"
       },
       {
         "id": 1.2,
         "btnTitle": "Treatments",
         "title": "Treatments",
-        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore. They include:</p><ul><li>Comprehensive Fertility Evaluations</li><li>Intrauterine Insemination (IUI)</li><li>In Vitro Fertilization (IVF)</li><li>Intracytoplasmic Sperm Injection (ICSI)</li><li>Endometriosis Treatment</li><li>Polycystic Ovary Syndrome (PCOS) Treatment</li><li>Fertility Preservation</li><li>Counseling and Support</li><li>Male Infertility Treatment</li></ul><h2>Leading Fertility Clinic in Basaveshwar Nagar, Bangalore</h2><p>Shivam Mother and Child Care is a top fertility hospital in Basaveshwar Nagar. Our goal is to provide complete care and guidance to couples facing fertility challenges, covering all types of fertility conditions. With advanced tools and equipment, our expert fertility specialists and experienced team are here to provide you with the best possible treatment.</p></div>"
       }
     ]
   },
@@ -130,27 +161,27 @@
     "link": "best-fetal-medicine-care-in-basaveshwaranagara",
     "specialityName": "Fetal Medicine",
     "seoTitle": {
-      "title": "Best Fetal medicine Hospital in Basaveshwarnagar, Bangalore",
+      "title": "Best Fetal Medicine Hospital in Basaveshwarnagar, Bangalore",
       "desc": "Shivam Hospital is one of the best fetal medicine care hospitals in Basaveshwarnagar. Book an appointment with our best obstetrician and gynaecologist in Basaveshwarnagar."
     },
-    "excerpt": "Shivam Women & Children Hospital is renowned for its exceptional fetal medicine services across Basaveshwar Nagar and surrounding areas.",
+    "excerpt": "Our fetal medicine department offers advanced prenatal screening and diagnostic services to closely monitor the health and development of the baby during pregnancy. We provide expert evaluation and specialized care for high-risk pregnancies and fetal conditions.Using advanced imaging and diagnostic technology, our specialists help parents receive accurate guidance and timely care throughout pregnancy.",
     "icon": "fetal_medicine.png",
     "imgAltText": "Doctor checking fetal development via ultrasound",
-    "img": "fetal_medicine.jpg",
+    "img": "fetalmedicine.jpeg",
     "banImg": "fetal.jpg",
     "imgAlt": "Best Fetal Medicine Care in Bangalore",
     "topContent": [
       {
-        "id": 2.1,
+        "id": 3.1,
         "btnTitle": "Overview",
         "title": "Best Fetal Medicine Care in Bangalore",
-        "content": "<div><p>Shivam Women & Children Hospital is renowned for its exceptional fetal medicine services across Basaveshwar Nagar and surrounding areas.</p></div>"
+        "content": "<div><p>Our fetal medicine department offers advanced prenatal screening and diagnostic services to closely monitor the health and development of the baby during pregnancy. We provide expert evaluation and specialized care for high-risk pregnancies and fetal conditions.</p><p>Using advanced imaging and diagnostic technology, our specialists help parents receive accurate guidance and timely care throughout pregnancy.</p></div>"
       },
       {
         "id": 3.2,
         "btnTitle": "Treatments",
         "title": "Treatments",
-        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore. They include:</p><ul><li>Comprehensive Fetal Evaluations</li><li>First Trimester Screening</li><li>Anomaly Scans</li><li>Fetal Echocardiography</li><li>Doppler Studies</li><li>Invasive Diagnostic Procedures (Amniocentesis, Chorionic Villus Sampling)</li><li>Non-Invasive Prenatal Testing (NIPT)</li><li>Fetal Therapy</li><li>Multiple Pregnancy Management</li><li>Monitoring High-Risk Pregnancies</li></ul><h2>Leading Fetal Medicine Clinic in Basaveshwar Nagar, Bangalore</h2><p>Shivam Mother and Child Care is a top fetal medicine hospital in Basaveshwar Nagar. Our goal is to provide complete care and guidance to expectant mothers, covering all types of fetal conditions. With advanced tools and equipment, our expert fetal medicine specialists and experienced team are here to provide you with the best possible treatment.</p></div>"
       }
     ]
   },
@@ -164,10 +195,10 @@
       "title": "Best Paediatrics Hospital in Basaveshwarnagar | Child Care Hospital",
       "desc": "Shivam Hospital is one of the best paediatric hospitals in Basaveshwarnagar. Our paediatricians in Basaveshwarnagar focus on the treatment of newborn babies, infants, and adolescents."
     },
-    "excerpt": "Shivam Women & Children Hospital is renowned healthcare provider known for its comprehensive paediatric services across Basaveshwar Nagar and surrounding areas.",
+    "excerpt": "At Shivam Mother and Child Care, our pediatric department focuses on the complete health and development of children from infancy through adolescence. We provide preventive, diagnostic, and treatment services in a child-friendly and caring environment.From routine checkups and vaccinations to treatment for childhood illnesses, our pediatric specialists are committed to supporting your child’s healthy growth and well-being.",
     "icon": "pulmonology.png",
     "imgAltText": "Doctor caring for child's health needs",
-    "img": "pead.jpg",
+    "img": "paediatric.jpeg",
     "banImg": "pea.jpg",
     "imgAlt": "Best Pediatric Care in Bangalore",
     "topContent": [
@@ -175,13 +206,13 @@
         "id": 5.1,
         "btnTitle": "Overview",
         "title": "Best Pediatric Care in Bangalore",
-        "content": "<div><p>Shivam Women & Children Hospital is renowned healthcare provider known for its comprehensive paediatric services across Basaveshwar Nagar and surrounding areas.</p></div>"
+        "content": "<div><p>At Shivam Mother and Child Care, our pediatric department focuses on the complete health and development of children from infancy through adolescence. We provide preventive, diagnostic, and treatment services in a child-friendly and caring environment.</p><p>From routine checkups and vaccinations to treatment for childhood illnesses, our pediatric specialists are committed to supporting your child's healthy growth and well-being.</p></div>"
       },
       {
         "id": 5.2,
         "btnTitle": "Treatments",
         "title": "Treatments",
-        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore.</p></div>"
+        "content": "<div><p>The treatments offered at Shivam Hospital Basaveshwar Nagar are the best in Bangalore. They include:</p><ul><li>Routine Pediatric Check-ups</li><li>Vaccinations and Immunizations</li><li>Growth and Development Monitoring</li><li>Management of Acute and Chronic Illnesses</li><li>Pediatric Nutrition and Diet Counseling</li><li>Pediatric Surgery</li><li>Neonatal Intensive Care Unit (NICU)</li><li>Pediatric Intensive Care Unit (PICU)</li><li>Pediatric Neurology</li><li>Pediatric Cardiology</li></ul><h2>Leading Pediatric Hospital in Basaveshwar Nagar, Bangalore</h2><p>Shivam Mother and Child Care is a top pediatric hospital in Basaveshwar Nagar. Our goal is to provide complete care and guidance to children, covering all types of pediatric conditions. With advanced tools and equipment, our expert pediatricians and experienced team are here to provide you with the best possible treatment.</p></div>"
       }
     ]
   },
@@ -195,117 +226,148 @@
       "title": "Best NICU Hospital in Basaveshwarnagar | Neonatal Care in Bangalore",
       "desc": "Shivam Hospital is one the best hospitals for NICU care in Basaveshwarnagar. The best neonatologist in Basaveshwarnagar offer comprehensive facilities and treatment."
     },
-    "excerpt": "Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.",
+    "excerpt": "Our Neonatal Intensive Care Unit (NICU) is equipped to provide advanced medical care for critically ill and premature newborns. With specialized monitoring systems and experienced neonatal professionals, we ensure continuous support for babies requiring intensive care.At Shivam Mother and Child Care, we combine technology, expertise, and compassionate care to give newborns the best possible start to life.",
     "icon": "pulmonology.png",
     "imgAltText": "Child under observation in NICU",
-    "img": "nicu_picu.jpg",
+    "img": "nicu.jpeg",
     "banImg": "nicu.jpg",
     "imgAlt": "Advanced NICU Care in Bangalore",
     "topContent": [
       {
-        "id": 5.1,
+        "id": 6.1,
         "btnTitle": "Overview",
         "title": "Advanced NICU Hospital in Bangalore",
-        "content": "<div><p>Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.</p></div>"
+        "content": "<div><p>Our Neonatal Intensive Care Unit (NICU) is equipped to provide advanced medical care for critically ill and premature newborns. With specialized monitoring systems and experienced neonatal professionals, we ensure continuous support for babies requiring intensive care.</p><p>At Shivam Mother and Child Care, we combine technology, expertise, and compassionate care to give newborns the best possible start to life. Our highly qualified neonatologists and specialized nursing staff are committed to providing round-the-clock care, ensuring that every newborn receives the highest standard of treatment and attention.</p></div>"
       },
       {
-        "id": 5.2,
+        "id": 6.2,
         "btnTitle": "Treatments",
         "title": "Treatments",
-        "content": "<div><p>Our advanced NICU department covers various areas.</p></div>"
+        "content": "<div><p>Our advanced NICU department covers various areas, including:</p><ul><li>Comprehensive Neonatal Care</li><li>Management of Premature and Low Birthweight Infants</li><li>Respiratory Support (Ventilators, CPAP, HFNC)</li><li>Neonatal Surgery</li><li>Management of Congenital Anomalies</li><li>Infection Control and Sepsis Management</li><li>Nutritional Support and Feeding Assistance</li><li>Neurodevelopmental Follow-up</li><li>Family Counseling and Emotional Support</li></ul><p>At Shivam Mother and Child Care, we prioritize the health and well-being of our youngest patients. Our goal is to ensure a smooth and comprehensive treatment experience for families. We offer a range of affordable NICU care packages, along with expert counseling to support parents during this challenging time.</p><h2>Leading NICU Hospital in Basaveshwar Nagar, Bangalore</h2><p>As a top NICU hospital in Basaveshwar Nagar, our mission is to provide exceptional care for newborns with critical health needs. Our experienced neonatologists and well-equipped facility ensure the best outcomes for every baby in our care. Shivam Mother and Child Care also provides specialized services in Obstetrics, Gynaecology, Fertility, Pediatrics, Fetal Medicine, and Radiology to offer complete healthcare support for mothers and babies.</p></div>"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "deptTitle": "Department of Neonatal Care",
+    "title": "Neonatal Care in Bangalore",
+    "link": "neonatal-care-in-basaveshwaranagara",
+    "specialityName": "Neonatal Care",
+    "seoTitle": {
+      "title": "Best Neonatal Care Hospital in Basaveshwarnagar, Bangalore",
+      "desc": "Shivam Hospital provides specialized neonatal care for newborns who require extra support after birth including premature babies and low birth weight infants."
+    },
+    "excerpt": "Our neonatal care services are dedicated to providing specialized medical attention for newborns who require extra support after birth. We ensure close monitoring and expert care for premature babies, low birth weight infants, and newborns with medical concerns.With experienced pediatric and neonatal specialists, advanced facilities, and compassionate nursing care, we prioritize the health and well-being of every newborn.",
+    "icon": "pulmonology.png",
+    "imgAltText": "Newborn under neonatal care",
+    "img": "neonatalcare.jpeg",
+    "banImg": "nicu.jpg",
+    "imgAlt": "Neonatal Care in Bangalore",
+    "topContent": [
+      {
+        "id": 12.1,
+        "btnTitle": "Overview",
+        "title": "Neonatal Care in Bangalore",
+        "content": "<div><p>Our neonatal care services are dedicated to providing specialized medical attention for newborns who require extra support after birth. We ensure close monitoring and expert care for premature babies, low birth weight infants, and newborns with medical concerns.</p><p>With experienced pediatric and neonatal specialists, advanced facilities, and compassionate nursing care, we prioritize the health and well-being of every newborn.</p></div>"
+      },
+      {
+        "id": 12.2,
+        "btnTitle": "Treatments",
+        "title": "Treatments",
+        "content": "<div><p>Our neonatal care services include:</p><ul><li>Care for Premature Babies</li><li>Low Birth Weight Infant Management</li><li>Newborn Screening</li><li>Phototherapy for Jaundice</li><li>Respiratory Support</li><li>Infection Management</li><li>Nutritional Support</li><li>Parent Counseling and Support</li></ul><h2>Leading Neonatal Care Hospital in Basaveshwar Nagar, Bangalore</h2><p>Shivam Mother and Child Care is a trusted neonatal care hospital in Basaveshwar Nagar. Our experienced team of neonatologists and specialized nursing staff are committed to providing the highest standard of care for every newborn, ensuring the best possible start to life.</p></div>"
       }
     ]
   },
   {
     "id": 8,
-    "deptTitle": "Department of Nutrition And Dietetics",
-    "title": "Advanced NICU Care in Bangalore",
-    "link": "advanced-nicu-care-in-basaveshwaranagara",
+    "deptTitle": "Department of Nutrition & Dietetics",
+    "title": "Nutrition & Dietetics in Bangalore",
+    "link": "nutrition-and-dietetics-in-basaveshwaranagara",
     "specialityName": "Nutrition And Dietetics",
     "seoTitle": {
-      "title": "Best NICU Hospital in Basaveshwarnagar | Neonatal Care in Bangalore",
-      "desc": "Shivam Hospital is one the best hospitals for NICU care in Basaveshwarnagar. The best neonatologist in Basaveshwarnagar offer comprehensive facilities and treatment."
+      "title": "Best Nutrition & Dietetics Hospital in Basaveshwarnagar, Bangalore",
+      "desc": "Shivam Hospital provides personalized dietary guidance for mothers, children and patients to promote healthy living and overall wellness."
     },
-    "excerpt": "Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.",
+    "excerpt": "Good nutrition plays an essential role in overall health, pregnancy care, child development, and recovery. Our nutrition and dietetics team provides personalized dietary guidance tailored to individual health needs and lifestyle goals.We support mothers, children, and patients with expert nutritional counseling to promote healthy living and overall wellness.",
     "icon": "pulmonology.png",
-    "imgAltText": "Child under observation in NICU",
-    "img": "nicu_picu.jpg",
+    "imgAltText": "Nutritionist consulting patient",
+    "img": "nutritionanddiet.jpeg",
     "banImg": "nicu.jpg",
-    "imgAlt": "Advanced NICU Care in Bangalore",
+    "imgAlt": "Nutrition & Dietetics in Bangalore",
     "topContent": [
       {
-        "id": 7.1,
+        "id": 8.1,
         "btnTitle": "Overview",
-        "title": "Advanced NICU Hospital in Bangalore",
-        "content": "<div><p>Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.</p></div>"
+        "title": "Nutrition & Dietetics in Bangalore",
+        "content": "<div><p>Good nutrition plays an essential role in overall health, pregnancy care, child development, and recovery. Our nutrition and dietetics team provides personalized dietary guidance tailored to individual health needs and lifestyle goals.</p><p>We support mothers, children, and patients with expert nutritional counseling to promote healthy living and overall wellness.</p></div>"
       },
       {
-        "id": 7.2,
+        "id": 8.2,
         "btnTitle": "Treatments",
         "title": "Treatments",
-        "content": "<div><p>Our advanced NICU department covers various areas.</p></div>"
+        "content": "<div><p>Our nutrition and dietetics services include:</p><ul><li>Prenatal & Postnatal Nutrition Counseling</li><li>Child & Infant Nutrition Guidance</li><li>Weight Management Programs</li><li>Diabetes & Lifestyle Disease Diet Plans</li><li>Therapeutic Diet Planning</li><li>Breastfeeding Nutrition Support</li></ul><h2>Best Nutrition & Dietetics Services in Basaveshwar Nagar, Bangalore</h2><p>At Shivam Mother and Child Care, our nutrition and dietetics team is committed to supporting patients with expert dietary guidance tailored to their individual health needs. We work alongside our medical team to ensure every patient receives holistic and comprehensive care.</p></div>"
       }
     ]
   },
   {
     "id": 9,
     "deptTitle": "Department of Breastfeeding Support",
-    "title": "Advanced NICU Care in Bangalore",
-    "link": "advanced-nicu-care-in-basaveshwaranagara",
+    "title": "Breastfeeding Support in Bangalore",
+    "link": "breastfeeding-support-in-basaveshwaranagara",
     "specialityName": "Breastfeeding Support",
     "seoTitle": {
-      "title": "Best NICU Hospital in Basaveshwarnagar | Neonatal Care in Bangalore",
-      "desc": "Shivam Hospital is one the best hospitals for NICU care in Basaveshwarnagar. The best neonatologist in Basaveshwarnagar offer comprehensive facilities and treatment."
+      "title": "Breastfeeding Support Hospital in Basaveshwarnagar, Bangalore",
+      "desc": "Shivam Hospital provides expert breastfeeding support services to help new mothers with guidance, counseling and practical support for successful breastfeeding experiences."
     },
-    "excerpt": "Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.",
+    "excerpt": "We believe breastfeeding is an important part of a baby's growth and a mother's recovery journey. Our breastfeeding support services help new mothers with guidance, counseling, and practical support for successful breastfeeding experiences.Our trained professionals assist mothers in overcoming challenges and building confidence during the early stages of motherhood.",
     "icon": "pulmonology.png",
-    "imgAltText": "Child under observation in NICU",
-    "img": "nicu_picu.jpg",
+    "imgAltText": "Breastfeeding support at Shivam Hospital",
+    "img": "breastfeeding.jpeg",
     "banImg": "nicu.jpg",
-    "imgAlt": "Advanced NICU Care in Bangalore",
+    "imgAlt": "Breastfeeding Support in Bangalore",
     "topContent": [
       {
-        "id": 8.1,
+        "id": 9.1,
         "btnTitle": "Overview",
-        "title": "Advanced NICU Hospital in Bangalore",
-        "content": "<div><p>Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.</p></div>"
+        "title": "Breastfeeding Support in Bangalore",
+        "content": "<div><p>We believe breastfeeding is an important part of a baby's growth and a mother's recovery journey. Our breastfeeding support services help new mothers with guidance, counseling, and practical support for successful breastfeeding experiences.</p><p>Our trained professionals assist mothers in overcoming challenges and building confidence during the early stages of motherhood.</p></div>"
       },
       {
-        "id": 8.2,
+        "id": 9.2,
         "btnTitle": "Treatments",
         "title": "Treatments",
-        "content": "<div><p>Our advanced NICU department covers various areas.</p></div>"
+        "content": "<div><p>Our breastfeeding support services include:</p><ul><li>Lactation Counseling</li><li>Latch & Positioning Guidance</li><li>Breast Milk Supply Support</li><li>Management of Breastfeeding Difficulties</li><li>Engorgement & Mastitis Care</li><li>Pumping & Storage Guidance</li><li>Newborn Feeding Assessment</li></ul><h2>Best Breastfeeding Support Services in Basaveshwar Nagar, Bangalore</h2><p>At Shivam Mother and Child Care, we are committed to empowering new mothers with the confidence and skills to breastfeed successfully. Our caring team of lactation specialists provides personalized support to ensure a positive breastfeeding experience for both mother and baby.</p></div>"
       }
     ]
   },
   {
     "id": 10,
     "deptTitle": "Department of Allied Services",
-    "title": "Advanced NICU Care in Bangalore",
-    "link": "advanced-nicu-care-in-basaveshwaranagara",
+    "title": "Allied Services in Bangalore",
+    "link": "allied-services-in-basaveshwaranagara",
     "specialityName": "Allied Services",
     "seoTitle": {
-      "title": "Best NICU Hospital in Basaveshwarnagar | Neonatal Care in Bangalore",
-      "desc": "Shivam Hospital is one the best hospitals for NICU care in Basaveshwarnagar. The best neonatologist in Basaveshwarnagar offer comprehensive facilities and treatment."
+      "title": "Allied Healthcare Services in Basaveshwarnagar, Bangalore",
+      "desc": "Shivam Hospital offers a range of allied healthcare services including diagnostics, physiotherapy, pharmacy support, laboratory services and emergency care facilities."
     },
-    "excerpt": "Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.",
+    "excerpt": "Shivam Mother and Child Care offers a range of allied healthcare services to support comprehensive patient care under one roof. Our services include diagnostics, physiotherapy, pharmacy support, laboratory services, and emergency care facilities.With a multidisciplinary approach and patient-focused care, we aim to provide convenient, seamless, and high-quality healthcare experiences for families.",
     "icon": "pulmonology.png",
-    "imgAltText": "Child under observation in NICU",
-    "img": "nicu_picu.jpg",
+    "imgAltText": "Allied healthcare services at Shivam Hospital",
+    "img": "alliedservices.jpeg",
     "banImg": "nicu.jpg",
-    "imgAlt": "Advanced NICU Care in Bangalore",
+    "imgAlt": "Allied Services in Bangalore",
     "topContent": [
       {
-        "id": 9.1,
+        "id": 10.1,
         "btnTitle": "Overview",
-        "title": "Advanced NICU Hospital in Bangalore",
-        "content": "<div><p>Shivam Women & Children Hospital is renowned for its state-of-the-art Neonatal Intensive Care Unit (NICU) services.</p></div>"
+        "title": "Allied Services in Bangalore",
+        "content": "<div><p>Shivam Mother and Child Care offers a range of allied healthcare services to support comprehensive patient care under one roof. Our services include diagnostics, physiotherapy, pharmacy support, laboratory services, and emergency care facilities.</p><p>With a multidisciplinary approach and patient-focused care, we aim to provide convenient, seamless, and high-quality healthcare experiences for families.</p></div>"
       },
       {
-        "id": 9.2,
+        "id": 10.2,
         "btnTitle": "Treatments",
         "title": "Treatments",
-        "content": "<div><p>Our advanced NICU department covers various areas.</p></div>"
+        "content": "<div><p>Our allied services include:</p><ul><li>Diagnostics & Laboratory Services</li><li>Physiotherapy & Rehabilitation</li><li>Pharmacy Support</li><li>Emergency Care Facilities</li><li>Digital X-Ray & Imaging</li><li>3D/4D Ultrasound</li><li>Ambulance Services</li></ul><h2>Best Allied Healthcare Services in Basaveshwar Nagar, Bangalore</h2><p>At Shivam Mother and Child Care, our allied services are designed to complement our core medical specialties, ensuring patients receive complete and convenient care under one roof. From advanced diagnostics to emergency support, we are committed to making healthcare accessible and seamless for every patient and family.</p></div>"
       }
     ]
   }

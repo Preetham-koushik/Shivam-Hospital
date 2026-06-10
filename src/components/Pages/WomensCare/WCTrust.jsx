@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./wcTrust.module.css";
+import styles from "./WCTrust.module.css";
 import Container from "@/components/Layouts/Container";
 import {
   FaUserFriends, FaBaby, FaUserMd, FaHospital,

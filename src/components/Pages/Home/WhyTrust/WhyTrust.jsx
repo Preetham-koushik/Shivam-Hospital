@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./whyTrust.module.css";
+import styles from "./WhyTrust.module.css";
 import Container from "@/components/Layouts/Container";
 import {
   FaHeartbeat,
