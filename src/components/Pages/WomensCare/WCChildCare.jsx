@@ -3,6 +3,7 @@ import styles from "./WCChildCare.module.css";
 import Container from "@/components/Layouts/Container";
 import SectionTitle from "@/components/Assets/Ui/SectionTitle/SectionTitle";
 import Link from "next/link";
+import Image from "next/image";
 import { FaCheckCircle, FaArrowRight } from "react-icons/fa";
 
 const services = [
@@ -42,7 +43,15 @@ export default function WCChildCare() {
           <div className={styles.image_wrap}>
             <div className={styles.image_card}>
               <div className={styles.image_placeholder}>
-                <span>👶</span>
+                <span>
+                  <Image
+  src="/images/womencare/child.jpeg"
+  alt="Child Care"
+  width={600}
+  height={600}
+  className={styles.img}
+/>
+                </span>
                 <p>Child Care</p>
               </div>
               <div className={styles.image_badge}>

@@ -3,6 +3,7 @@ import styles from "./WCPregnancy.module.css";
 import Container from "@/components/Layouts/Container";
 import SectionTitle from "@/components/Assets/Ui/SectionTitle/SectionTitle";
 import Link from "next/link";
+import Image from "next/image";
 import { FaCheckCircle, FaArrowRight } from "react-icons/fa";
 
 const services = [
@@ -22,8 +23,13 @@ export default function WCPregnancy() {
           <div className={styles.image_wrap}>
             <div className={styles.image_card}>
               <div className={styles.image_placeholder}>
-                <span>🤰</span>
-                <p>Pregnancy Care</p>
+               <Image
+  src="/images/womencare/preg.jpeg"
+  alt="Fertility Care"
+  width={600}
+  height={400}
+  className={styles.img}
+/>
               </div>
               <div className={styles.image_badge}>
                 <span className={styles.badge_num}>10k+</span>
@@ -31,6 +37,7 @@ export default function WCPregnancy() {
               </div>
             </div>
           </div>
+
           <div className={styles.content}>
             <div className={styles.title_wrap}>
               <SectionTitle

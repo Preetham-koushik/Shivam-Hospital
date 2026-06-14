@@ -3,6 +3,7 @@ import styles from "./WCFertility.module.css";
 import Container from "@/components/Layouts/Container";
 import SectionTitle from "@/components/Assets/Ui/SectionTitle/SectionTitle";
 import Link from "next/link";
+import Image from "next/image";
 import { FaCheckCircle, FaArrowRight } from "react-icons/fa";
 
 const concerns = [
@@ -59,7 +60,15 @@ export default function WCFertility() {
           <div className={styles.image_wrap}>
             <div className={styles.image_card}>
               <div className={styles.image_placeholder}>
-                <span>🌸</span>
+                <span> 
+                  <Image
+  src="/images/womencare/fer.jpeg"
+  alt="Fertility Care"
+  width={600}
+  height={600}
+  className={styles.img}
+/>
+                </span>
                 <p>Fertility Care</p>
               </div>
               <div className={styles.image_badge}>

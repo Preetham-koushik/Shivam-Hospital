@@ -5,16 +5,19 @@
 .titles {
   text-align: left;
 }
+.sectionTitleLeft{
+  margin-left: 32px;
+}
 .titles h2 {
-  text-align: left;
+  margin: 0 0 0 32px;
+  text-align: start;
   font-weight: 500;
-  margin: 0;
 }
 .titles h2 strong {
   padding-left: 10px;
 }
 .titles p {
-  margin: 0;
+  margin: 0 0 0 32px;
 }
 .service_btns {
   margin: 50px 0px;
@@ -24,9 +27,10 @@
   display: flex;
   flex-wrap: wrap;
   border-bottom: 1px solid var(--black-15);
+  justify-content: space-evenly;
 }
 .service_btns li {
-  flex: 1;
+  /*flex: 1;*/
   text-align: center;
   font-size: var(--step-0);
   padding-bottom: 10px;
@@ -39,8 +43,7 @@
 .service_content {
   display: grid;
   grid-template-columns: 46% 50%;
-  justify-content: space-between;
-
+  justify-content: center;
   min-height: 250px;
 }
 

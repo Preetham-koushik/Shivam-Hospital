@@ -163,6 +163,12 @@ video {
   /* border: 1px solid red; */
 }
 
+.pageWidth{
+   width: 80%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
 .title {
   font-size: var(--step-9);
   color: var(--first);

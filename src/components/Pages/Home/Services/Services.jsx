@@ -21,14 +21,15 @@ export default function Services() {
 
   return (
     <section className={`${styles.wrapper} margin`}>
-      <Container width>
+      <Container pageWidth>
         <section className={styles.content_items}>
-          <SectionTitle
-            title="Specialities"
-            strongTitle=" in Shivam Hospital"
-            content="At Shivam  Hospital and Shivam Advanced Orthocare Hospital, we are staffed with experienced consultants who offer professional care across various specialties and subspecialties, including Obstetrics, Gynaecology, Neonatology, Paediatrics, and Orthopaedics. Our services are designed to meet the unique needs of women, children, and individuals requiring advanced orthopaedic care."
-          />
-
+        <div className={styles.sectionTitleLeft}>
+         <SectionTitle
+         title="Specialities"
+         strongTitle=" in Shivam Hospital"
+         content="At Shivam Hospital and Shivam Advanced Orthocare Hospital, we are staffed with experienced consultants who offer professional care across various specialties and subspecialties, including Obstetrics, Gynaecology, Neonatology, Paediatrics, and Orthopaedics. Our services are designed to meet the unique needs of women, children, and individuals requiring advanced orthopaedic care."
+         />
+</div>
           <section className={styles.service_btns}>
             <ul>
               {data.map((serviceItem) => {
