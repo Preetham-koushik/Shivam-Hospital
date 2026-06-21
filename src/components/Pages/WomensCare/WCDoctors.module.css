@@ -12,7 +12,8 @@
   margin: 0 auto;
   padding: 0 20px; /* reduced padding – no arrows needed */
   position: relative;
-  overflow: visible;
+  /*overflow: visible;*/
+  overflow: hidden;
 }
 
 .swiper_container {
