@@ -12,7 +12,6 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Navigation } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
-
 import doctorsData from "@/components/Data/Doctors/doctors.json";
 
 export default function WCDoctors() {
@@ -50,6 +49,7 @@ export default function WCDoctors() {
               delay: 3000,
               disableOnInteraction: false,
               pauseOnMouseEnter: false,
+              waitForTransition: false,
             }}
             speed={800}
             breakpoints={{
@@ -76,7 +76,9 @@ export default function WCDoctors() {
                     <p className={styles.doc_desig}>{member.designation}</p>
                     <p className={styles.doc_qual}>{member.qualification}</p>
                     <span className={styles.doc_exp}>{member.experience}</span>
-                    
+                    <Link href={member.link} className={styles.doc_link}>
+                      View Profile <FaArrowRight />
+                    </Link>
                   </div>
                 </div>
               </SwiperSlide>
