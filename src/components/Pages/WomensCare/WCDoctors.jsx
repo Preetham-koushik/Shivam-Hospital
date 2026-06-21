@@ -29,7 +29,7 @@ export default function WCDoctors() {
 
   return (
     <section className={`${styles.wrapper} margin`}>
-      <Container width>
+      <Container className={styles.overflow}>
         <div className={styles.title_wrap}>
           <SectionTitle
             title="Meet Our"
