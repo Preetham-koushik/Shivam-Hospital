@@ -7,84 +7,39 @@
   margin-bottom: 50px;
 }
 
-.overflow{
-  overflow: hidden;
-  width: 80%;
-  max-width: 1200px;
-
-}
-
-/* ----- Carousel Wrapper ----- */
 .carousel_wrapper {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 70px;
+  padding: 0 20px; /* reduced padding – no arrows needed */
   position: relative;
   overflow: visible;
 }
 
 .swiper_container {
   overflow: visible;
-  padding: 10px 0 30px !important;
+  padding: 10px 0 30px;
 }
 
-.swiper_container :global(.swiper-wrapper) {
+.swiper_container .swiper-wrapper {
   align-items: stretch;
 }
 
 .slide {
-  height: auto !important;
-  min-width: 0; /* prevent overflow */
+  height: auto;
+  min-width: 0;
 }
 
-/* ----- Arrows ----- */
-.swiper_container :global(.swiper-button-prev),
-.swiper_container :global(.swiper-button-next) {
-  color: var(--first);
-  background: var(--white);
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  border: 1px solid var(--black-3);
-  transition: 0.2s;
-  z-index: 10;
-}
-
-.swiper_container :global(.swiper-button-prev:hover),
-.swiper_container :global(.swiper-button-next:hover) {
-  background: var(--first);
-  color: var(--white);
-  border-color: var(--first);
-}
-
-.swiper_container :global(.swiper-button-prev::after),
-.swiper_container :global(.swiper-button-next::after) {
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.swiper_container :global(.swiper-button-prev) {
-  transform: translateX(-50%);
-  left: 10px;
-}
-
-.swiper_container :global(.swiper-button-next) {
-  transform: translateX(50%);
-  right: 10px;
-}
-
-/* ----- Cards (overflow fixed) ----- */
+/* ----- Cards ----- */
 .card {
   background: var(--white);
   border: 1px solid var(--black-3);
   border-radius: 16px;
-  overflow: hidden; /* keep everything inside */
+  overflow: hidden;
   transition: transform 0.25s, border-color 0.25s;
   height: 100%;
   display: flex;
   flex-direction: column;
-  min-width: 0; /* prevent overflow */
+  min-width: 0;
 }
 
 .card:hover {
@@ -115,7 +70,7 @@
   flex: 1;
   display: flex;
   flex-direction: column;
-  min-width: 0; /* prevent overflow */
+  min-width: 0;
   overflow: hidden;
 }
 
@@ -164,8 +119,6 @@
   border-radius: 20px;
   margin-bottom: 14px;
   align-self: flex-start;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
 }
 
 .doc_link {
@@ -206,26 +159,8 @@
   transform: translateY(-2px);
 }
 
-/* ----- Mobile adjustments ----- */
 @media (max-width: 768px) {
   .carousel_wrapper {
-    padding: 0 30px;
-  }
-  .swiper_container :global(.swiper-button-prev) {
-    transform: translateX(-30%);
-    left: 5px;
-  }
-  .swiper_container :global(.swiper-button-next) {
-    transform: translateX(30%);
-    right: 5px;
-  }
-  .swiper_container :global(.swiper-button-prev),
-  .swiper_container :global(.swiper-button-next) {
-    width: 36px;
-    height: 36px;
-  }
-  .swiper_container :global(.swiper-button-prev::after),
-  .swiper_container :global(.swiper-button-next::after) {
-    font-size: 14px;
+    padding: 0 10px;
   }
 }

@@ -9,9 +9,10 @@ import Link from "next/link";
 import { FaArrowRight } from "react-icons/fa";
 
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay, Navigation } from "swiper/modules";
+import { Autoplay } from "swiper/modules"; // ✅ No Navigation
 import "swiper/css";
-import "swiper/css/navigation";
+// ✅ No need for navigation CSS
+
 import doctorsData from "@/components/Data/Doctors/doctors.json";
 
 export default function WCDoctors() {
@@ -40,16 +41,14 @@ export default function WCDoctors() {
 
         <div className={styles.carousel_wrapper}>
           <Swiper
-            modules={[Autoplay, Navigation]}
+            modules={[Autoplay]}
             spaceBetween={24}
             slidesPerView={1}
-            navigation
             loop
             autoplay={{
               delay: 3000,
               disableOnInteraction: false,
               pauseOnMouseEnter: false,
-              waitForTransition: false,
             }}
             speed={800}
             breakpoints={{
@@ -58,6 +57,9 @@ export default function WCDoctors() {
               1200: { slidesPerView: 4 },
             }}
             className={styles.swiper_container}
+            onSwiper={(swiper) => {
+              swiper.autoplay.start();
+            }}
           >
             {teamMembers.map((member) => (
               <SwiperSlide key={member.id} className={styles.slide}>
