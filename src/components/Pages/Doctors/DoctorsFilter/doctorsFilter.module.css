@@ -7,7 +7,7 @@
 .doctors_btns ul {
   list-style: none;
   display: flex;
-  gap: 5%;
+  gap: 4%;
 
   border-bottom: 1px solid var(--black-15);
 }

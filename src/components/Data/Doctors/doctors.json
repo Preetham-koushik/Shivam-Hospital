@@ -2,12 +2,14 @@
   {
     "id": "1",
     "firstname": "Vanaja",
-    "lastname": "Shivakumar",
+    "lastname": " Shivakumar",
     "link": "vanaja-shivakumar",
     "gender": "f",
     "isDoctor": true,
     "isConsultant": true,
-    "speciality": ["obstetrics"],
+    "speciality": [
+      "obstetrics"
+    ],
     "designation": "Specialist in Obstetrics, Gynaecology & Infertility ",
     "qualification": "MBBS, MS (Obstetrics & Gynaecology), Fellowship in Infertility",
     "content": "<section> <h3>Profile</h3> <p>Dr. Vanaja Shivakumar, a distinguished and seasoned Obstetrics, Gynecology, and Infertility Specialist, brings a wealth of expertise to her practice. With a particular focus on Infertility and the Management of High-Risk Pregnancies, she stands out for her unique approach to facilitating painless normal deliveries through labor analgesia.</p> <p>Her journey in the medical field began with earning her MBBS from the prestigious Bangalore Medical College and Research Institute, followed by an impressive 35th rank in PG CGT. Subsequently, she pursued her M.S. in Obstetrics and Gynecology at the renowned Jawaharlal Nehru Medical College. Dr. Vanaja Shivakumar further honed her skills through a fellowship in Infertility under the guidance of Dr. Kamini Rao, the esteemed founder of an infertility institution.</p> <p>With a remarkable 25 years of dedicated practice, Dr. Vanaja Shivakumar is deeply committed to second-generation maternity care, overseeing more than 40 deliveries each month, including challenging surgical procedures.</p> <p>Noteworthy is her credit of recognition for a specialized study on adolescent health issues. This expertise equips her to address critical points concerning adolescent health at the right junctures, contributing to comprehensive and timely care for this demographic.</p> <p>Dr. Vanaja Shivakumar's commitment to excellence, coupled with her extensive experience and specialized focus areas, positions her as a leading authority in the field of women's health and maternity care.</p></section>",
@@ -24,12 +26,14 @@
   {
     "id": "2",
     "firstname": "Amardeep",
-    "lastname": "M R",
+    "lastname": " M R",
     "link": "amardeep-m-r",
     "gender": "f",
     "isDoctor": true,
     "isConsultant": true,
-    "speciality": ["orthopaedics"],
+    "speciality": [
+      "orthopaedics"
+    ],
     "designation": "Orthopaedic Surgeon",
     "qualification": "MBBS, MS, DNB, MNAMS (Orthopaedic Surgery) Ex. Senior Resident, AIIMS New Delhi",
     "content": "<section> <h3>Profile</h3> <p>Meet Dr. Amardeep M.R., a distinguished consultant orthopedic surgeon specializing in arthroscopy and arthroplasty. His journey in the field of orthopedics began with an MBBS degree from the renowned Bangalore Medical College and Research Institute. Dr. Amardeep's commitment to excellence and academic prowess led him to secure a top rank in the postgraduate entrance exam, culminating in the completion of his MS in Orthopedics from the esteemed GMCH, Chandigarh.</p> <p>The pinnacle of Dr. Amardeep's training unfolded during a three-year senior residency at the All India Institute of Medical Science, New Delhi, from 2020 to 2023. Under the mentorship of eminent professors in the field of arthroplasty and orthoscopy, he honed his skills to become a seasoned orthopedic expert. His expertise further expanded during his tenure at the prestigious AIIMS Jai Prakash Narayan Apex Trauma Centre, New Delhi, where he gained valuable experience in complex trauma surgeries and polytrauma management.</p> <p>Returning to Karnataka, Dr. Amardeep has been making significant contributions to the field of orthopedics. Currently serving as a consultant at Shivam Advanced Ortho Care in Bangalore, his practice encompasses a wide range of specialties, showcasing his proficiency as a clinician and skilled surgeon. Dr. Amardeep has garnered extensive experience in conducting complex trauma surgeries, including knee and shoulder arthroscopies, ACL reconstruction, ligament surgeries, total knee replacement, and hip replacement surgeries.</p> <p>His commitment to excellence is evident in the consistently positive outcomes he achieves for his patients. Dr. Amardeep's passion for advancing orthopedic care and his dedication to staying at the forefront of medical advancements make him a trusted name in the field.</p> </section>",
@@ -51,7 +55,9 @@
     "gender": "f",
     "isDoctor": true,
     "isConsultant": true,
-    "speciality": ["paediatrics"],
+    "speciality": [
+      "paediatrics"
+    ],
     "designation": "Specialist in Paediatrics & Neonatology",
     "qualification": "MBBS, MD (Paediatrics), Fellowship in Paediatrics & Neonatology ",
     "content": "",
@@ -72,7 +78,9 @@
     "gender": "f",
     "isDoctor": true,
     "isConsultant": true,
-    "speciality": ["obstetrics"],
+    "speciality": [
+      "obstetrics"
+    ],
     "designation": "Specialist in Paediatrics & Neonatology",
     "qualification": "MBBS, MS , DNB(OBG), FRM",
     "content": "",
@@ -88,13 +96,14 @@
   {
     "id": "5",
     "firstname": "Akash",
-    "lastname": " ",
-    "link": "akash",
+    "lastname": "",
     "link": "akash",
     "gender": "f",
     "isDoctor": true,
     "isConsultant": true,
-    "speciality": ["paediatrics"],
+    "speciality": [
+      "paediatrics"
+    ],
     "designation": "Specialist in Paediatrics & Neonatology",
     "qualification": "MBBS, MD ,FNNF ",
     "content": "",
@@ -105,6 +114,143 @@
     "seoTitle": {
       "title": "Akash at Shivam Hospital",
       "desc": "Dr Akash is one of the best Paediatrician at Shivam Hospital Basaveshwarnagar Bangalore. Specialized in paediatric care with 6+ years experience."
+    }
+  },
+  {
+    "id": "6",
+    "firstname": "Pooja R",
+    "lastname": " Rayasam",
+    "link": "pooja-r-rayasam",
+    "gender": "f",
+    "isDoctor": true,
+    "isConsultant": true,
+    "speciality": [
+      "geneticCounselling"
+    ],
+    "designation": "Specialist in Genetic Counselling",
+    "qualification": "Master's degree in Biomedical Genetics",
+    "content": "<section><h3>Profile</h3><p>Pooja R. Rayasam is an experienced Genetic Counselor with over 11 years of expertise in the field of genetic counselling and fetal medicine support. She holds a Master’s degree in Biomedical Genetics with specialization in Genetic Counselling and is a Level II Certified Genetic Counselor accredited by the Board of Genetic Counseling India.</p><p>She specializes in counselling and supporting clinicians and families through complex genetic conditions, including recurrent pregnancy loss, abnormal screening or genetic test results, complex fetal anomalies, and recurrence risk assessment in families with inherited genetic disorders. Her patient-centered approach helps families make informed decisions with clarity, empathy, and confidence.</p></section>",
+    "image": "pooja.jpeg",
+    "imageAlt": "Pooja R Rayasam Specialist in Genetic Counselling",
+    "workExperience": "11+ years of experience",
+    "languages": "",
+    "seoTitle": {
+      "title": "Pooja R Rayasam Genetic Counsellor at Shivam Hospital",
+      "desc": "Pooja R Rayasam is a Level II Certified Genetic Counselor at Shivam Hospital Basaveshwarnagar Bangalore with 11+ years of experience in genetic counselling and fetal medicine support."
+    }
+  },
+  {
+    "id": "7",
+    "firstname": "Navya",
+    "lastname": "",
+    "link": "navya",
+    "gender": "f",
+    "isDoctor": true,
+    "isConsultant": true,
+    "speciality": [
+      "nutritionAndDietetics"
+    ],
+    "designation": "Dietitian",
+    "qualification": "Masters degree in Food Science and Nutrition",
+    "content": "<section><h3>Profile</h3><p>An experienced Clinical Nutritionist with over 6 years of expertise in hospital and independent practice, currently serving as Consultant Nutritionist at Shivam Women and Child Care Hospital. She holds a Master’s degree in Food Science and Nutrition and specializes in women’s health nutrition, focusing on fertility, antenatal care, postnatal recovery, lactation support, and pediatric nutrition.</p><p>She also provides nutritional management for lifestyle and medical conditions including PCOS, gestational diabetes, thyroid disorders, obesity, and heart disease. Her approach combines evidence-based nutrition planning with compassionate counseling, working closely with multidisciplinary medical teams to create personalized diet plans that support healthier outcomes for women and children.</p></section>",
+    "image": "navya.jpeg",
+    "imageAlt": "Dr. Navya Dietitian",
+    "workExperience": "6+ years of experience",
+    "languages": "",
+    "seoTitle": {
+      "title": "Dr Navya Dietitian at Shivam Hospital",
+      "desc": "Dr Navya is a Clinical Nutritionist at Shivam Hospital Basaveshwarnagar Bangalore with 6+ years of experience in women's health nutrition, antenatal and postnatal care."
+    }
+  },
+  {
+    "id": "8",
+    "firstname": "Sudeepthi",
+    "lastname": " B C",
+    "link": "sudeepthi-b-c",
+    "gender": "f",
+    "isDoctor": true,
+    "isConsultant": true,
+    "speciality": [
+      "alliedServices"
+    ],
+    "designation": "Psychiatry - Woman Mental Health",
+    "qualification": "MBBS, MD (Psychiatry)",
+    "content": "<section><h3>Profile</h3><p>Dr. Sudeepthi B C is a dedicated Psychiatrist with over 7 years of experience in the field of mental health and psychiatry. She completed her MBBS from Sapthagiri Institute of Medical Sciences and Research Center, Bangalore, and pursued her MD in Psychiatry from Bangalore Medical College and Research Institute, Bangalore.</p><p>She has served as a Specialist Psychiatrist at a Government Taluk Hospital, providing comprehensive psychiatric care and mental health support to patients across various age groups. Dr. Sudeepthi has also published a research paper in the International Journal of Health Sciences and Research. Her special areas of interest include Child Psychiatry and Women’s Mental Health, with a focus on compassionate, patient-centered care and holistic emotional well-being.</p></section>",
+    "image": "sudeepthi.jpeg",
+    "imageAlt": "Dr. Sudeepthi B C Psychiatry - Woman Mental Health",
+    "workExperience": "7+ years of experience",
+    "languages": "",
+    "seoTitle": {
+      "title": "Dr Sudeepthi B C Psychiatrist at Shivam Hospital",
+      "desc": "Dr Sudeepthi B C is a Psychiatrist specializing in Women's Mental Health at Shivam Hospital Basaveshwarnagar Bangalore with 7+ years of experience."
+    }
+  },
+  {
+    "id": "9",
+    "firstname": "Aneesh",
+    "lastname": "S Shenoy",
+    "link": "aneesh-s-shenoy",
+    "gender": "f",
+    "isDoctor": true,
+    "isConsultant": true,
+    "speciality": [
+      "paediatrics"
+    ],
+    "designation": "Pediatric Surgeon",
+    "qualification": "MBBS, MS General Surgery, M.Ch. Pediatric Surgery, DNB General Surgery, DrNB Pediatric Surgery",
+    "content": "<section><h3>Profile</h3><p>An experienced Pediatric Surgeon with over 5 years of expertise in providing advanced surgical care for infants, children, and adolescents. He holds qualifications including MBBS, MS in General Surgery, M.Ch. in Pediatric Surgery, DNB in General Surgery, and DrNB in Pediatric Surgery.</p><p>His areas of expertise include Neonatal Surgeries, Pediatric Urology, Pediatric Trauma, Pediatric Thoracic Surgery, Pediatric GI Surgery, and Pediatric Laparoscopic Surgery. With a patient-centered and compassionate approach, he is dedicated to delivering safe, specialized, and advanced surgical care tailored to the unique needs of children.</p></section>",
+    "image": "aneesh.jpeg",
+    "imageAlt": "Dr. H Aneesh S Shenoy Pediatric Surgeon",
+    "workExperience": "5+ years of experience",
+    "languages": "",
+    "seoTitle": {
+      "title": "Dr Aneesh S Shenoy Pediatric Surgeon at Shivam Hospital",
+      "desc": "Dr Aneesh S Shenoy is a Pediatric Surgeon at Shivam Hospital Basaveshwarnagar Bangalore with 5+ years of experience in neonatal surgery and pediatric trauma care."
+    }
+  },
+{
+  "id": "10",
+  "firstname": "Dhakshayini",
+  "lastname": "K. E",
+  "link": "dhakshayini-k-e",
+  "gender": "f",
+  "isDoctor": false,
+  "isConsultant": true,
+  "speciality": ["lactation"],
+  "designation": "Senior Lactation Specialist & Nursing Professional",
+  "qualification": "Registered Nurse, Certified Lactation Consultant",
+  "content": "<section><h3>Profile</h3><p>Dhakshayini K.E is a highly experienced Senior Nursing Professional with over 18 years of expertise in maternal and child healthcare, labour room management, neonatal care, and patient safety. She specialises in labour room and obstetric care, lactation consultation and breastfeeding support, NICU coordination, emergency care, and patient counseling.</p><p>With strong leadership and clinical skills, she has extensive experience in managing high-risk cases, supervising nursing teams, and ensuring compassionate, quality-driven patient care. Her dedication to maternal and newborn well-being makes her an integral part of women and child healthcare services.</p></section>",
+  "image": "dhakshayini.jpeg",
+  "imageAlt": "Dhakshayini K. E - Senior Lactation Specialist & Nursing Professional",
+  "workExperience": "18+ years of experience",
+  "videoConsultLink": "",
+  "languages": "",
+  "seoTitle": {
+    "title": "Nurse Dhakshayini K E – Lactation Specialist at Shivam Hospital",
+    "desc": "Nurse Dhakshayini K E is a Senior Lactation Specialist at Shivam Hospital Basaveshwarnagar Bangalore with 18+ years of experience in maternal and child healthcare."
+  }
+},
+  {
+    "id": "11",
+    "firstname": "R. Roopa",
+    "lastname": "Devi (PT)",
+    "link": "r-roopa-devi",
+    "gender": "f",
+    "isDoctor": true,
+    "isConsultant": true,
+    "speciality": [
+      "orthopaedics"
+    ],
+    "designation": "Physiotherapist",
+    "qualification": "Mpt (Neurology), Certified Antenatal and Postnatal Therapist",
+    "content": "",
+    "image": "roopadevi.jpeg",
+    "imageAlt": "Dr. R. Roopa Devi Physiotherapist",
+    "workExperience": "5+ years of experience",
+    "languages": "",
+    "seoTitle": {
+      "title": "Dr R Roopa Devi Physiotherapist at Shivam Hospital",
+      "desc": "Dr R Roopa Devi is a Physiotherapist at Shivam Hospital Basaveshwarnagar Bangalore, certified in Antenatal and Postnatal Therapy with 5+ years of experience."
     }
   }
 ]
