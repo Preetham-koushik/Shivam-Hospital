@@ -80,14 +80,6 @@ export default function OurSpecialists() {
                 })}
               </Swiper>
             </section>
-            <div className={styles.swiper_button}>
-              <button className="button-prev-slide">
-                <GrFormPrevious />
-              </button>
-              <button className="button-next-slide">
-                <GrFormNext />
-              </button>
-            </div>
           </section>
         </section>
       </Container>
