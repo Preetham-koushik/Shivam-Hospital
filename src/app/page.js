@@ -11,7 +11,7 @@ import Services from "@/components/Pages/Home/Services/Services";
 import Testimonials from "@/components/Pages/Home/Testimonials/Testimonials";
 import Faq from "@/components/Pages/Home/Faq/faq";
 import WhyTrust from "@/components/Pages/Home/WhyTrust/WhyTrust";
-import infostrip from "@/components/Pages/Home/infostrip/infostrip";
+import Infostrip from "@/components/Pages/Home/infostrip/infostrip"
 export const metadata = {
   title: "Shivam Hospital | Best Hospital in Basaveshwarnagar, Bangalore",
   description:
@@ -25,7 +25,7 @@ export default function Home() {
       <Banner />
       <Counters />
       <About />
-      <infostrip />
+      <Infostrip />
       <WhyTrust />
       <Services />
       <OurSpecialists />
