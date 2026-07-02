@@ -17,9 +17,6 @@ export default function InfoStrip() {
               <span className={styles.label}>Emergency Services</span>
               <strong className={styles.value}>Available 24/7</strong>
             </div>
-           {/* <a href="tel:9606028161" className={styles.cta}>
-              Call Now
-            </a>*/}
           </div>
 
           <div className={styles.divider} />
@@ -32,9 +29,6 @@ export default function InfoStrip() {
               <span className={styles.label}>OPD Consultation</span>
               <strong className={styles.value}>11:00 AM – 8:00 PM</strong>
             </div>
-            {/*<a href="/contact-us" className={styles.cta}>
-              Book Now
-            </a>*/}
           </div>
 
         </div>
