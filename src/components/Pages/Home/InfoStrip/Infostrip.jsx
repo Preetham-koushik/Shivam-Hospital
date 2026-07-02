@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./infoStrip.module.css";
+import styles from "./InfoStrip.module.css";
 import Container from "@/components/Layouts/Container";
 import { FaAmbulance, FaClock } from "react-icons/fa";
 
