@@ -11,7 +11,7 @@ import Services from "@/components/Pages/Home/Services/Services";
 import Testimonials from "@/components/Pages/Home/Testimonials/Testimonials";
 import Faq from "@/components/Pages/Home/Faq/faq";
 import WhyTrust from "@/components/Pages/Home/WhyTrust/WhyTrust";
-import InfoStrip from "@/components/Pages/Home/Infostrip/Infostrip";
+import InfoStrip from "@/components/Pages/Home/InfoStrip/InfoStrip";
 export const metadata = {
   title: "Shivam Hospital | Best Hospital in Basaveshwarnagar, Bangalore",
   description:
