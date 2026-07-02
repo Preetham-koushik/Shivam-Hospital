@@ -1,9 +1,9 @@
 import React from "react";
-import styles from "./InfoStrip.module.css";
+import styles from "./Infostrip.module.css";
 import Container from "@/components/Layouts/Container";
 import { FaAmbulance, FaClock } from "react-icons/fa";
 
-export default function InfoStrip() {
+export default function Infostrip() {
   return (
     <section className={`${styles.wrapper} margin`}>
       <Container width>
