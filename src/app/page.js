@@ -25,7 +25,7 @@ export default function Home() {
       <Banner />
       <Counters />
       <About />
-      <Infostrip />
+      <InfoStrip />
       <WhyTrust />
       <Services />
       <OurSpecialists />
